@@ -1,0 +1,50 @@
+name: 更新必应壁纸
+
+on:
+  schedule:
+    # 每天 UTC 时间 16:00 运行（北京时间 0:00）
+    - cron: "0 16 * * *"
+  workflow_dispatch: # 支持手动触发
+
+# 并发控制
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  update-wallpaper:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 获取必应壁纸
+        run: python fetch_bing.py
+
+      - name: 检查是否有更新
+        id: check_changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          if git diff --staged --quiet; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "没有检测到更新"
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "检测到壁纸更新"
+          fi
+
+      - name: 提交更新
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git commit -m "🖼️ 自动更新必应壁纸 $(date '+%Y-%m-%d')"
+          git push
