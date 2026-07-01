@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bing Daily Wallpaper</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#0a0a0a;color:#e4e4e7}
+a{color:#a1a1aa;text-decoration:none}a:hover{color:#fafafa}
+.hero{position:relative;width:100%;height:100vh;min-height:500px;overflow:hidden}
+.hero img{width:100%;height:100%;object-fit:cover}
+.hero .gradient{position:absolute;inset:0;background:linear-gradient(0deg,rgba(10,10,10,.95) 0%,rgba(10,10,10,.4) 40%,transparent 70%)}
+.hero .content{position:absolute;bottom:0;left:0;right:0;padding:48px clamp(24px,5vw,80px)}
+.hero .content h1{font-size:clamp(1.8rem,4vw,3rem);font-weight:700;color:#fafafa;margin-bottom:8px}
+.hero .content .meta{display:flex;align-items:center;gap:16px;flex-wrap:wrap;margin-bottom:16px}
+.hero .content .date{font-size:.9rem;color:#a1a1aa}
+.hero .content .copyright{font-size:.85rem;color:#71717a}
+.hero .content .copyright a{color:#71717a}.hero .content .copyright a:hover{color:#a1a1aa}
+.hero .content .btn{display:inline-flex;align-items:center;gap:8px;padding:12px 28px;background:#fafafa;color:#0a0a0a;border-radius:8px;font-size:.9rem;font-weight:500;text-decoration:none;transition:all .2s}
+.hero .content .btn:hover{background:#d4d4d8;transform:translateY(-1px)}
+.section{max-width:1400px;margin:0 auto;padding:60px clamp(16px,4vw,48px)}
+.section-header{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:32px}
+.section-header h2{font-size:1.3rem;font-weight:600;color:#e4e4e7}
+.section-header .count{font-size:.85rem;color:#52525b}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px}
+.card{position:relative;border-radius:10px;overflow:hidden;cursor:pointer;opacity:0;transform:translateY(20px);transition:opacity .5s,transform .5s}
+.card.visible{opacity:1;transform:translateY(0)}
+.card img{width:100%;display:block;transition:transform .4s}
+.card:hover img{transform:scale(1.05)}
+.card .overlay{position:absolute;inset:0;background:linear-gradient(0deg,rgba(10,10,10,.8) 0%,transparent 50%);display:flex;flex-direction:column;justify-content:flex-end;padding:16px;opacity:0;transition:opacity .3s}
+.card:hover .overlay{opacity:1}
+.card .overlay .card-title{font-size:.95rem;font-weight:500;color:#fafafa}
+.card .overlay .card-date{font-size:.8rem;color:#a1a1aa;margin-top:4px}
+.archives{margin-top:40px}
+.archives h3{font-size:1rem;color:#71717a;margin-bottom:16px}
+.archives .links{display:flex;flex-wrap:wrap;gap:8px}
+.archives .links a{padding:6px 16px;background:#18181b;border:1px solid #27272a;border-radius:6px;color:#a1a1aa;font-size:.85rem;transition:all .2s}
+.archives .links a:hover{background:#27272a;color:#fafafa;border-color:#3f3f46}
+.footer{text-align:center;padding:40px 20px;color:#3f3f46;font-size:.75rem;border-top:1px solid #18181b;margin-top:60px}
+.lightbox{display:none;position:fixed;inset:0;z-index:1000;background:rgba(0,0,0,.92);backdrop-filter:blur(8px);align-items:center;justify-content:center;cursor:zoom-out}
+.lightbox.active{display:flex}
+.lightbox img{max-width:92vw;max-height:88vh;object-fit:contain;border-radius:4px}
+.lightbox .lb-info{position:absolute;bottom:24px;left:50%;transform:translateX(-50%);text-align:center}
+.lightbox .lb-info .lb-title{font-size:1rem;color:#fafafa;margin-bottom:4px}
+.lightbox .lb-info .lb-meta{font-size:.8rem;color:#71717a}
+.lightbox .lb-close{position:absolute;top:24px;right:24px;width:40px;height:40px;background:#18181b;border:1px solid #27272a;border-radius:50%;color:#a1a1aa;font-size:1.2rem;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .2s}
+.lightbox .lb-close:hover{background:#27272a;color:#fafafa}
+.lightbox .lb-download{position:absolute;top:24px;right:80px;padding:8px 20px;background:#fafafa;color:#0a0a0a;border-radius:6px;font-size:.85rem;font-weight:500;text-decoration:none;transition:all .2s}
+.lightbox .lb-download:hover{background:#d4d4d8}
+.lightbox .lb-nav{position:absolute;top:50%;transform:translateY(-50%);width:48px;height:48px;background:rgba(24,24,27,.7);border:1px solid #3f3f46;border-radius:50%;color:#a1a1aa;font-size:1.4rem;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .2s}
+.lightbox .lb-nav:hover{background:#27272a;color:#fafafa}
+.lightbox .lb-prev{left:20px}.lightbox .lb-next{right:20px}
+@media(max-width:640px){.hero{min-height:70vh}.grid{grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:10px}.card .overlay{opacity:1;background:linear-gradient(0deg,rgba(10,10,10,.7) 0%,transparent 40%)}.lightbox .lb-nav{width:40px;height:40px;font-size:1.1rem}.lightbox .lb-prev{left:8px}.lightbox .lb-next{right:8px}}
+</style>
+</head>
+<body>
+<div class="hero">
+<img src="https://cn.bing.com/th?id=OHR.TempleEsna_ZH-CN9834689523_1920x1080.jpg" alt="走进埃斯纳神圣的世界" width="1920" height="1080">
+<div class="gradient"></div>
+<div class="content">
+<h1>走进埃斯纳神圣的世界</h1>
+<div class="meta">
+<span class="date">2026-07-02</span>
+<span class="copyright"><a href="https://www.bing.com/search?q=%E5%9F%83%E5%8F%8A%E5%9F%83%E6%96%AF%E7%BA%B3%E7%A5%9E%E5%BA%99&form=hpcapt&mkt=zh-cn" target="_blank">埃斯纳神庙穹顶天花板, 埃及 (© Nick Brundle Photography/Getty Images)</a></span>
+</div>
+<a class="btn" href="https://cn.bing.com/th?id=OHR.TempleEsna_ZH-CN9834689523_UHD.jpg" target="_blank" rel="noopener">⬇ 下载 4K</a>
+</div>
+</div>
+<div class="section">
+<div class="section-header">
+<h2>2026-07 月壁纸</h2>
+<span class="count">1 张</span>
+</div>
+<div class="grid"></div>
+<div class="archives">
+<h3>历史归档</h3>
+<div class="links">
+            <a href="./archives/2026-07.html">2026-07</a>
+</div>
+</div>
+</div>
+<div class="footer">GitHub Actions 每天自动更新 · 壁纸版权归微软及原作者所有</div>
+<div class="lightbox" id="lightbox" onclick="closeLightbox()">
+<button class="lb-close" onclick="closeLightbox()">&times;</button>
+<a class="lb-download" id="lb-download" href="#" target="_blank" onclick="event.stopPropagation()">查看原图</a>
+<button class="lb-nav lb-prev" onclick="event.stopPropagation();navigate(-1)">&#8249;</button>
+<button class="lb-nav lb-next" onclick="event.stopPropagation();navigate(1)">&#8250;</button>
+<img id="lb-img" src="" alt="">
+<div class="lb-info"><div class="lb-title" id="lb-title"></div><div class="lb-meta" id="lb-meta"></div></div>
+</div>
+<script>
+const items=[];
+let currentIndex=0;
+function openLightbox(i){currentIndex=i;const w=items[i];document.getElementById('lb-img').src=w.url;document.getElementById('lb-title').textContent=w.title;document.getElementById('lb-meta').textContent=w.date+' · '+w.cr;document.getElementById('lb-download').href=w.url;document.getElementById('lightbox').classList.add('active');document.body.style.overflow='hidden';}
+function navigate(d){currentIndex=(currentIndex+d+items.length)%items.length;const w=items[currentIndex];document.getElementById('lb-img').src=w.url;document.getElementById('lb-title').textContent=w.title;document.getElementById('lb-meta').textContent=w.date+' · '+w.cr;document.getElementById('lb-download').href=w.url;}
+function closeLightbox(){document.getElementById('lightbox').classList.remove('active');document.body.style.overflow='';}
+document.addEventListener('keydown',e=>{if(e.key==='Escape')closeLightbox();if(e.key==='ArrowLeft')navigate(-1);if(e.key==='ArrowRight')navigate(1);});
+const observer=new IntersectionObserver(entries=>{entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('visible');observer.unobserve(e.target);}});},{threshold:0.1});
+document.querySelectorAll('.card').forEach(c=>observer.observe(c));
+</script>
+</body>
+</html>
