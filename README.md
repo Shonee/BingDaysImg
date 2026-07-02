@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**走进埃斯纳神圣的世界** (2026-07-02)
+**流光之诗** (2026-07-03)
 
-![走进埃斯纳神圣的世界](https://cn.bing.com/th?id=OHR.TempleEsna_ZH-CN9834689523_1920x1080.jpg)
+![流光之诗](https://cn.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_1920x1080.jpg)
 
-埃斯纳神庙穹顶天花板, 埃及 (© Nick Brundle Photography/Getty Images)
+小溪上方的萤火虫，冈山县，日本 (© tdub303/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.TempleEsna_ZH-CN9834689523_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_UHD.jpg)
 
-## 2026-07 月壁纸 (1 张)
+## 2026-07 月壁纸 (2 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-07-03 | 流光之诗 | [下载](https://cn.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_UHD.jpg) |
 | 2026-07-02 | 走进埃斯纳神圣的世界 | [下载](https://cn.bing.com/th?id=OHR.TempleEsna_ZH-CN9834689523_UHD.jpg) |
 
 ## 历史归档
