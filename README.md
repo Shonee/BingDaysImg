@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**紫色花海** (2026-07-05)
+**百代镌刻之城** (2026-07-06)
 
-![紫色花海](https://cn.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_1920x1080.jpg)
+![百代镌刻之城](https://cn.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_1920x1080.jpg)
 
-瓦朗索勒高原的薰衣草行，普罗旺斯，法国 (© Robert Harding/Shutterstock)
+锡拉库萨的日落，西西里岛，意大利 (© Balate Dorin/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_UHD.jpg)
 
-## 2026-07 月壁纸 (4 张)
+## 2026-07 月壁纸 (5 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-07-06 | 百代镌刻之城 | [下载](https://cn.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_UHD.jpg) |
 | 2026-07-05 | 紫色花海 | [下载](https://cn.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_UHD.jpg) |
 | 2026-07-04 | 此行，不虚绕道 | [下载](https://cn.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_UHD.jpg) |
 | 2026-07-03 | 流光之诗 | [下载](https://cn.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_UHD.jpg) |
