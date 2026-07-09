@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**步步传承** (2026-07-09)
+**陆地与海洋的鸟瞰图** (2026-07-10)
 
-![步步传承](https://cn.bing.com/th?id=OHR.SapaVietnam_ZH-CN2178893672_1920x1080.jpg)
+![陆地与海洋的鸟瞰图](https://cn.bing.com/th?id=OHR.VictoriaBeach_ZH-CN8892195426_1920x1080.jpg)
 
-在沙巴的水稻田，老街，越南 (© Anujak Jaimook/Getty Images)
+陆地与海洋的鸟瞰图，维多利亚州，澳大利亚 (© Nearmap/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.SapaVietnam_ZH-CN2178893672_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.VictoriaBeach_ZH-CN8892195426_UHD.jpg)
 
-## 2026-07 月壁纸 (8 张)
+## 2026-07 月壁纸 (9 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-07-10 | 陆地与海洋的鸟瞰图 | [下载](https://cn.bing.com/th?id=OHR.VictoriaBeach_ZH-CN8892195426_UHD.jpg) |
 | 2026-07-09 | 步步传承 | [下载](https://cn.bing.com/th?id=OHR.SapaVietnam_ZH-CN2178893672_UHD.jpg) |
 | 2026-07-08 | 远古火山的回响 | [下载](https://cn.bing.com/th?id=OHR.LakeAtitlan_ZH-CN1920221893_UHD.jpg) |
 | 2026-07-07 | 林冠华彩 | [下载](https://cn.bing.com/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431_UHD.jpg) |
