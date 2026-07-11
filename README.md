@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**布列塔尼的潮汐之约** (2026-07-11)
+**缅因州的狂野一面** (2026-07-12)
 
-![布列塔尼的潮汐之约](https://cn.bing.com/th?id=OHR.AurayBrittany_ZH-CN5549157888_1920x1080.jpg)
+![缅因州的狂野一面](https://cn.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_1920x1080.jpg)
 
-圣古斯坦港, 欧赖, 布列塔尼, 法国 (© Rolf E. Staerk/Shutterstock)
+卡塔丁森林和水域国家纪念地，缅因州，美国 (© Cavan Images/Offset/Shutterstock)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.AurayBrittany_ZH-CN5549157888_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg)
 
-## 2026-07 月壁纸 (10 张)
+## 2026-07 月壁纸 (11 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-07-12 | 缅因州的狂野一面 | [下载](https://cn.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg) |
 | 2026-07-11 | 布列塔尼的潮汐之约 | [下载](https://cn.bing.com/th?id=OHR.AurayBrittany_ZH-CN5549157888_UHD.jpg) |
 | 2026-07-10 | 陆地与海洋的鸟瞰图 | [下载](https://cn.bing.com/th?id=OHR.VictoriaBeach_ZH-CN8892195426_UHD.jpg) |
 | 2026-07-09 | 步步传承 | [下载](https://cn.bing.com/th?id=OHR.SapaVietnam_ZH-CN2178893672_UHD.jpg) |
