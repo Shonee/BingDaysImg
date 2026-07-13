@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**为摇滚而生** (2026-07-13)
+**奇妙的真相** (2026-07-14)
 
-![为摇滚而生](https://cn.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_1920x1080.jpg)
+![奇妙的真相](https://cn.bing.com/th?id=OHR.LemonShark_ZH-CN4650331008_1920x1080.jpg)
 
-羚羊峡谷，纳瓦霍族保留地，亚利桑那州，美国 (© Mark Skalny/Getty Images)
+柠檬鲨幼崽在红树林中，伊柳塞拉岛，巴哈马 (© Shane Gross/Nature Picture Library)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.LemonShark_ZH-CN4650331008_UHD.jpg)
 
-## 2026-07 月壁纸 (12 张)
+## 2026-07 月壁纸 (13 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-07-14 | 奇妙的真相 | [下载](https://cn.bing.com/th?id=OHR.LemonShark_ZH-CN4650331008_UHD.jpg) |
 | 2026-07-13 | 为摇滚而生 | [下载](https://cn.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_UHD.jpg) |
 | 2026-07-12 | 缅因州的狂野一面 | [下载](https://cn.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg) |
 | 2026-07-11 | 布列塔尼的潮汐之约 | [下载](https://cn.bing.com/th?id=OHR.AurayBrittany_ZH-CN5549157888_UHD.jpg) |
