@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**奇妙的真相** (2026-07-14)
+**攀登后的奖励** (2026-07-15)
 
-![奇妙的真相](https://cn.bing.com/th?id=OHR.LemonShark_ZH-CN4650331008_1920x1080.jpg)
+![攀登后的奖励](https://cn.bing.com/th?id=OHR.MarieLake_ZH-CN4927917413_1920x1080.jpg)
 
-柠檬鲨幼崽在红树林中，伊柳塞拉岛，巴哈马 (© Shane Gross/Nature Picture Library)
+玛丽湖，约翰·缪尔荒野（毕晓普附近），加利福尼亚州，美国 (© Steve Dunleavy/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.LemonShark_ZH-CN4650331008_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.MarieLake_ZH-CN4927917413_UHD.jpg)
 
-## 2026-07 月壁纸 (13 张)
+## 2026-07 月壁纸 (14 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-07-15 | 攀登后的奖励 | [下载](https://cn.bing.com/th?id=OHR.MarieLake_ZH-CN4927917413_UHD.jpg) |
 | 2026-07-14 | 奇妙的真相 | [下载](https://cn.bing.com/th?id=OHR.LemonShark_ZH-CN4650331008_UHD.jpg) |
 | 2026-07-13 | 为摇滚而生 | [下载](https://cn.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_UHD.jpg) |
 | 2026-07-12 | 缅因州的狂野一面 | [下载](https://cn.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg) |
