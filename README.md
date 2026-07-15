@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**攀登后的奖励** (2026-07-15)
+**滨水变色龙** (2026-07-16)
 
-![攀登后的奖励](https://cn.bing.com/th?id=OHR.MarieLake_ZH-CN4927917413_1920x1080.jpg)
+![滨水变色龙](https://cn.bing.com/th?id=OHR.NavyPier_ZH-CN4649271588_1920x1080.jpg)
 
-玛丽湖，约翰·缪尔荒野（毕晓普附近），加利福尼亚州，美国 (© Steve Dunleavy/Getty Images)
+海军码头，芝加哥，伊利诺伊州，美国 (© Christopher.F Photography/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.MarieLake_ZH-CN4927917413_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.NavyPier_ZH-CN4649271588_UHD.jpg)
 
-## 2026-07 月壁纸 (14 张)
+## 2026-07 月壁纸 (15 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-07-16 | 滨水变色龙 | [下载](https://cn.bing.com/th?id=OHR.NavyPier_ZH-CN4649271588_UHD.jpg) |
 | 2026-07-15 | 攀登后的奖励 | [下载](https://cn.bing.com/th?id=OHR.MarieLake_ZH-CN4927917413_UHD.jpg) |
 | 2026-07-14 | 奇妙的真相 | [下载](https://cn.bing.com/th?id=OHR.LemonShark_ZH-CN4650331008_UHD.jpg) |
 | 2026-07-13 | 为摇滚而生 | [下载](https://cn.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_UHD.jpg) |
