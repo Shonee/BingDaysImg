@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**滨水变色龙** (2026-07-16)
+**希腊式的逃离** (2026-07-17)
 
-![滨水变色龙](https://cn.bing.com/th?id=OHR.NavyPier_ZH-CN4649271588_1920x1080.jpg)
+![希腊式的逃离](https://cn.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_1920x1080.jpg)
 
-海军码头，芝加哥，伊利诺伊州，美国 (© Christopher.F Photography/Getty Images)
+瓦伊海滩上的日光浴躺椅，克里特岛，希腊 (© borchee/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.NavyPier_ZH-CN4649271588_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_UHD.jpg)
 
-## 2026-07 月壁纸 (15 张)
+## 2026-07 月壁纸 (16 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-07-17 | 希腊式的逃离 | [下载](https://cn.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_UHD.jpg) |
 | 2026-07-16 | 滨水变色龙 | [下载](https://cn.bing.com/th?id=OHR.NavyPier_ZH-CN4649271588_UHD.jpg) |
 | 2026-07-15 | 攀登后的奖励 | [下载](https://cn.bing.com/th?id=OHR.MarieLake_ZH-CN4927917413_UHD.jpg) |
 | 2026-07-14 | 奇妙的真相 | [下载](https://cn.bing.com/th?id=OHR.LemonShark_ZH-CN4650331008_UHD.jpg) |
