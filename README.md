@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**希腊式的逃离** (2026-07-17)
+**环影圆成** (2026-07-18)
 
-![希腊式的逃离](https://cn.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_1920x1080.jpg)
+![环影圆成](https://cn.bing.com/th?id=OHR.DevilsBridge_ZH-CN2164982440_1920x1080.jpg)
 
-瓦伊海滩上的日光浴躺椅，克里特岛，希腊 (© borchee/Getty Images)
+恶魔桥在克罗姆劳杜鹃花公园，萨克森州，德国 (© Mike Mareen/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.DevilsBridge_ZH-CN2164982440_UHD.jpg)
 
-## 2026-07 月壁纸 (16 张)
+## 2026-07 月壁纸 (17 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-07-18 | 环影圆成 | [下载](https://cn.bing.com/th?id=OHR.DevilsBridge_ZH-CN2164982440_UHD.jpg) |
 | 2026-07-17 | 希腊式的逃离 | [下载](https://cn.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_UHD.jpg) |
 | 2026-07-16 | 滨水变色龙 | [下载](https://cn.bing.com/th?id=OHR.NavyPier_ZH-CN4649271588_UHD.jpg) |
 | 2026-07-15 | 攀登后的奖励 | [下载](https://cn.bing.com/th?id=OHR.MarieLake_ZH-CN4927917413_UHD.jpg) |
