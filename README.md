@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**敛羽栖时** (2026-07-19)
+**月瞰寰宇** (2026-07-20)
 
-![敛羽栖时](https://cn.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_1920x1080.jpg)
+![月瞰寰宇](https://cn.bing.com/th?id=OHR.Artemis_ZH-CN3540365575_1920x1080.jpg)
 
-不同亚种的家燕聚在一起休息 (© Oscar Dominguez/Tandem Stills + Motion)
+月球与地球由阿耳忒弥斯2号机组人员拍摄 (© NASA)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.Artemis_ZH-CN3540365575_UHD.jpg)
 
-## 2026-07 月壁纸 (18 张)
+## 2026-07 月壁纸 (19 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-07-20 | 月瞰寰宇 | [下载](https://cn.bing.com/th?id=OHR.Artemis_ZH-CN3540365575_UHD.jpg) |
 | 2026-07-19 | 敛羽栖时 | [下载](https://cn.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_UHD.jpg) |
 | 2026-07-18 | 环影圆成 | [下载](https://cn.bing.com/th?id=OHR.DevilsBridge_ZH-CN2164982440_UHD.jpg) |
 | 2026-07-17 | 希腊式的逃离 | [下载](https://cn.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_UHD.jpg) |
