@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**拱影寻踪** (2026-07-21)
+**细微之举，影响深远** (2026-07-22)
 
-![拱影寻踪](https://cn.bing.com/th?id=OHR.SantaCatalina_ZH-CN6223370790_1920x1080.jpg)
+![细微之举，影响深远](https://cn.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_1920x1080.jpg)
 
-圣卡塔琳娜拱门，安提瓜，危地马拉 (© Filippo Maria Bianchi/Getty Images)
+珊瑚礁与海滩在拉贾安帕特，印度尼西亚 (© SergeUWPhoto/Shutterstock)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.SantaCatalina_ZH-CN6223370790_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_UHD.jpg)
 
-## 2026-07 月壁纸 (20 张)
+## 2026-07 月壁纸 (21 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-07-22 | 细微之举，影响深远 | [下载](https://cn.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_UHD.jpg) |
 | 2026-07-21 | 拱影寻踪 | [下载](https://cn.bing.com/th?id=OHR.SantaCatalina_ZH-CN6223370790_UHD.jpg) |
 | 2026-07-20 | 月瞰寰宇 | [下载](https://cn.bing.com/th?id=OHR.Artemis_ZH-CN3540365575_UHD.jpg) |
 | 2026-07-19 | 敛羽栖时 | [下载](https://cn.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_UHD.jpg) |
