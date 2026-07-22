@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**细微之举，影响深远** (2026-07-22)
+**瓣叠交响** (2026-07-23)
 
-![细微之举，影响深远](https://cn.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_1920x1080.jpg)
+![瓣叠交响](https://cn.bing.com/th?id=OHR.PinkDahlia_ZH-CN2259107800_1920x1080.jpg)
 
-珊瑚礁与海滩在拉贾安帕特，印度尼西亚 (© SergeUWPhoto/Shutterstock)
+粉红色大丽花 (© Harald Biebel/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.PinkDahlia_ZH-CN2259107800_UHD.jpg)
 
-## 2026-07 月壁纸 (21 张)
+## 2026-07 月壁纸 (22 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-07-23 | 瓣叠交响 | [下载](https://cn.bing.com/th?id=OHR.PinkDahlia_ZH-CN2259107800_UHD.jpg) |
 | 2026-07-22 | 细微之举，影响深远 | [下载](https://cn.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_UHD.jpg) |
 | 2026-07-21 | 拱影寻踪 | [下载](https://cn.bing.com/th?id=OHR.SantaCatalina_ZH-CN6223370790_UHD.jpg) |
 | 2026-07-20 | 月瞰寰宇 | [下载](https://cn.bing.com/th?id=OHR.Artemis_ZH-CN3540365575_UHD.jpg) |
