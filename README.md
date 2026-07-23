@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**瓣叠交响** (2026-07-23)
+**缤纷多彩的一家人** (2026-07-24)
 
-![瓣叠交响](https://cn.bing.com/th?id=OHR.PinkDahlia_ZH-CN2259107800_1920x1080.jpg)
+![缤纷多彩的一家人](https://cn.bing.com/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387_1920x1080.jpg)
 
-粉红色大丽花 (© Harald Biebel/Getty Images)
+美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Nature Picture Library)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.PinkDahlia_ZH-CN2259107800_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387_UHD.jpg)
 
-## 2026-07 月壁纸 (22 张)
+## 2026-07 月壁纸 (23 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-07-24 | 缤纷多彩的一家人 | [下载](https://cn.bing.com/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387_UHD.jpg) |
 | 2026-07-23 | 瓣叠交响 | [下载](https://cn.bing.com/th?id=OHR.PinkDahlia_ZH-CN2259107800_UHD.jpg) |
 | 2026-07-22 | 细微之举，影响深远 | [下载](https://cn.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_UHD.jpg) |
 | 2026-07-21 | 拱影寻踪 | [下载](https://cn.bing.com/th?id=OHR.SantaCatalina_ZH-CN6223370790_UHD.jpg) |
