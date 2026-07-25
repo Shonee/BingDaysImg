@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**加境幽廊** (2026-07-25)
+**海陆际会，生机肇始** (2026-07-26)
 
-![加境幽廊](https://cn.bing.com/th?id=OHR.GaliciaBeach_ZH-CN1246611659_1920x1080.jpg)
+![海陆际会，生机肇始](https://cn.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_1920x1080.jpg)
 
-大教堂海滩，加利西亚，西班牙 (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)
+红树上的日出在小猪群岛，洪都拉斯 (© Mac Stone/Tandem Stills + Motion)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.GaliciaBeach_ZH-CN1246611659_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_UHD.jpg)
 
-## 2026-07 月壁纸 (24 张)
+## 2026-07 月壁纸 (25 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-07-26 | 海陆际会，生机肇始 | [下载](https://cn.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_UHD.jpg) |
 | 2026-07-25 | 加境幽廊 | [下载](https://cn.bing.com/th?id=OHR.GaliciaBeach_ZH-CN1246611659_UHD.jpg) |
 | 2026-07-24 | 缤纷多彩的一家人 | [下载](https://cn.bing.com/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387_UHD.jpg) |
 | 2026-07-23 | 瓣叠交响 | [下载](https://cn.bing.com/th?id=OHR.PinkDahlia_ZH-CN2259107800_UHD.jpg) |
