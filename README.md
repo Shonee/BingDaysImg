@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**海陆际会，生机肇始** (2026-07-26)
+**仰望芝城，流光溢彩** (2026-07-27)
 
-![海陆际会，生机肇始](https://cn.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_1920x1080.jpg)
+![仰望芝城，流光溢彩](https://cn.bing.com/th?id=OHR.ChicagoTiffany_ZH-CN9860688834_1920x1080.jpg)
 
-红树上的日出在小猪群岛，洪都拉斯 (© Mac Stone/Tandem Stills + Motion)
+蒂芙尼穹顶，芝加哥文化中心，伊利诺伊州，美国 (© Felix Lipov/Shutterstock)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.ChicagoTiffany_ZH-CN9860688834_UHD.jpg)
 
-## 2026-07 月壁纸 (25 张)
+## 2026-07 月壁纸 (26 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-07-27 | 仰望芝城，流光溢彩 | [下载](https://cn.bing.com/th?id=OHR.ChicagoTiffany_ZH-CN9860688834_UHD.jpg) |
 | 2026-07-26 | 海陆际会，生机肇始 | [下载](https://cn.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_UHD.jpg) |
 | 2026-07-25 | 加境幽廊 | [下载](https://cn.bing.com/th?id=OHR.GaliciaBeach_ZH-CN1246611659_UHD.jpg) |
 | 2026-07-24 | 缤纷多彩的一家人 | [下载](https://cn.bing.com/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387_UHD.jpg) |
