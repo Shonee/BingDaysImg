@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**仰望芝城，流光溢彩** (2026-07-27)
+**生机律动，恒久之衡** (2026-07-28)
 
-![仰望芝城，流光溢彩](https://cn.bing.com/th?id=OHR.ChicagoTiffany_ZH-CN9860688834_1920x1080.jpg)
+![生机律动，恒久之衡](https://cn.bing.com/th?id=OHR.ChannelKelp_ZH-CN8732903732_1920x1080.jpg)
 
-蒂芙尼穹顶，芝加哥文化中心，伊利诺伊州，美国 (© Felix Lipov/Shutterstock)
+一片海藻林在安纳卡帕岛附近，海峡群岛国家公园，加利福尼亚州，美国 (© Ian Shive/Tandem Stills + Motion)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.ChicagoTiffany_ZH-CN9860688834_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.ChannelKelp_ZH-CN8732903732_UHD.jpg)
 
-## 2026-07 月壁纸 (26 张)
+## 2026-07 月壁纸 (27 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-07-28 | 生机律动，恒久之衡 | [下载](https://cn.bing.com/th?id=OHR.ChannelKelp_ZH-CN8732903732_UHD.jpg) |
 | 2026-07-27 | 仰望芝城，流光溢彩 | [下载](https://cn.bing.com/th?id=OHR.ChicagoTiffany_ZH-CN9860688834_UHD.jpg) |
 | 2026-07-26 | 海陆际会，生机肇始 | [下载](https://cn.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_UHD.jpg) |
 | 2026-07-25 | 加境幽廊 | [下载](https://cn.bing.com/th?id=OHR.GaliciaBeach_ZH-CN1246611659_UHD.jpg) |
