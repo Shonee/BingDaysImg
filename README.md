@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**生机律动，恒久之衡** (2026-07-28)
+**虎啸归来，锐爪重临** (2026-07-29)
 
-![生机律动，恒久之衡](https://cn.bing.com/th?id=OHR.ChannelKelp_ZH-CN8732903732_1920x1080.jpg)
+![虎啸归来，锐爪重临](https://cn.bing.com/th?id=OHR.TigerFamily_ZH-CN9064744163_1920x1080.jpg)
 
-一片海藻林在安纳卡帕岛附近，海峡群岛国家公园，加利福尼亚州，美国 (© Ian Shive/Tandem Stills + Motion)
+孟加拉虎一家在兰坦博尔国家公园，拉贾斯坦邦，印度 (© Archna Singh/Shutterstock)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.ChannelKelp_ZH-CN8732903732_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.TigerFamily_ZH-CN9064744163_UHD.jpg)
 
-## 2026-07 月壁纸 (27 张)
+## 2026-07 月壁纸 (28 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-07-29 | 虎啸归来，锐爪重临 | [下载](https://cn.bing.com/th?id=OHR.TigerFamily_ZH-CN9064744163_UHD.jpg) |
 | 2026-07-28 | 生机律动，恒久之衡 | [下载](https://cn.bing.com/th?id=OHR.ChannelKelp_ZH-CN8732903732_UHD.jpg) |
 | 2026-07-27 | 仰望芝城，流光溢彩 | [下载](https://cn.bing.com/th?id=OHR.ChicagoTiffany_ZH-CN9860688834_UHD.jpg) |
 | 2026-07-26 | 海陆际会，生机肇始 | [下载](https://cn.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_UHD.jpg) |
