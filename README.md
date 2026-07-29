@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**虎啸归来，锐爪重临** (2026-07-29)
+**旷野无声，活态传承之境** (2026-07-30)
 
-![虎啸归来，锐爪重临](https://cn.bing.com/th?id=OHR.TigerFamily_ZH-CN9064744163_1920x1080.jpg)
+![旷野无声，活态传承之境](https://cn.bing.com/th?id=OHR.NavajoNation_ZH-CN9274387505_1920x1080.jpg)
 
-孟加拉虎一家在兰坦博尔国家公园，拉贾斯坦邦，印度 (© Archna Singh/Shutterstock)
+在纳瓦霍族保留地的纪念碑谷，亚利桑那州，美国 (© Westend61/Adobe Stock)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.TigerFamily_ZH-CN9064744163_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.NavajoNation_ZH-CN9274387505_UHD.jpg)
 
-## 2026-07 月壁纸 (28 张)
+## 2026-07 月壁纸 (29 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-07-30 | 旷野无声，活态传承之境 | [下载](https://cn.bing.com/th?id=OHR.NavajoNation_ZH-CN9274387505_UHD.jpg) |
 | 2026-07-29 | 虎啸归来，锐爪重临 | [下载](https://cn.bing.com/th?id=OHR.TigerFamily_ZH-CN9064744163_UHD.jpg) |
 | 2026-07-28 | 生机律动，恒久之衡 | [下载](https://cn.bing.com/th?id=OHR.ChannelKelp_ZH-CN8732903732_UHD.jpg) |
 | 2026-07-27 | 仰望芝城，流光溢彩 | [下载](https://cn.bing.com/th?id=OHR.ChicagoTiffany_ZH-CN9860688834_UHD.jpg) |
