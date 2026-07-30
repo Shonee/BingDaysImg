@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**旷野无声，活态传承之境** (2026-07-30)
+**穿越时光的足迹** (2026-07-31)
 
-![旷野无声，活态传承之境](https://cn.bing.com/th?id=OHR.NavajoNation_ZH-CN9274387505_1920x1080.jpg)
+![穿越时光的足迹](https://cn.bing.com/th?id=OHR.VirginiaTrail_ZH-CN2299501599_1920x1080.jpg)
 
-在纳瓦霍族保留地的纪念碑谷，亚利桑那州，美国 (© Westend61/Adobe Stock)
+鸟瞰弗吉尼亚爬山虎步道，达马斯克斯，弗吉尼亚州，美国 (© Eifel Kreutz/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.NavajoNation_ZH-CN9274387505_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.VirginiaTrail_ZH-CN2299501599_UHD.jpg)
 
-## 2026-07 月壁纸 (29 张)
+## 2026-07 月壁纸 (30 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-07-31 | 穿越时光的足迹 | [下载](https://cn.bing.com/th?id=OHR.VirginiaTrail_ZH-CN2299501599_UHD.jpg) |
 | 2026-07-30 | 旷野无声，活态传承之境 | [下载](https://cn.bing.com/th?id=OHR.NavajoNation_ZH-CN9274387505_UHD.jpg) |
 | 2026-07-29 | 虎啸归来，锐爪重临 | [下载](https://cn.bing.com/th?id=OHR.TigerFamily_ZH-CN9064744163_UHD.jpg) |
 | 2026-07-28 | 生机律动，恒久之衡 | [下载](https://cn.bing.com/th?id=OHR.ChannelKelp_ZH-CN8732903732_UHD.jpg) |
