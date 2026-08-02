@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**色彩鲜艳的船只，历久弥新的传统** (2026-08-02)
+**色彩鲜艳的船只，历久弥新的传统** (2026-08-03)
 
-![色彩鲜艳的船只，历久弥新的传统](https://cn.bing.com/th?id=OHR.HelsinkiBlue_ZH-CN3961551568_1920x1080.jpg)
+![色彩鲜艳的船只，历久弥新的传统](https://cn.bing.com/th?id=OHR.BoatsMalta_ZH-CN4708255775_1920x1080.jpg)
 
 马尔萨什洛克港口五彩斑斓的渔船，马耳他 (© Klubovy/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.HelsinkiBlue_ZH-CN3961551568_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.BoatsMalta_ZH-CN4708255775_UHD.jpg)
 
-## 2026-08 月壁纸 (2 张)
+## 2026-08 月壁纸 (3 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-08-03 | 色彩鲜艳的船只，历久弥新的传统 | [下载](https://cn.bing.com/th?id=OHR.BoatsMalta_ZH-CN4708255775_UHD.jpg) |
 | 2026-08-02 | 色彩鲜艳的船只，历久弥新的传统 | [下载](https://cn.bing.com/th?id=OHR.HelsinkiBlue_ZH-CN3961551568_UHD.jpg) |
 | 2026-08-01 | 基拉韦厄火山的威力 | [下载](https://cn.bing.com/th?id=OHR.HawaiiLava_ZH-CN3257621771_UHD.jpg) |
 
