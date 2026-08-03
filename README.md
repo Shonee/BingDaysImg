@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**色彩鲜艳的船只，历久弥新的传统** (2026-08-03)
+**呼呼，太棒了！** (2026-08-04)
 
-![色彩鲜艳的船只，历久弥新的传统](https://cn.bing.com/th?id=OHR.BoatsMalta_ZH-CN4708255775_1920x1080.jpg)
+![呼呼，太棒了！](https://cn.bing.com/th?id=OHR.AdorableOwlet_ZH-CN6929234033_1920x1080.jpg)
 
-马尔萨什洛克港口五彩斑斓的渔船，马耳他 (© Klubovy/Getty Images)
+佛罗里达穴鸮幼鸟，开普科拉尔，佛罗里达州，美国 (© mlorenzphotography/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.BoatsMalta_ZH-CN4708255775_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.AdorableOwlet_ZH-CN6929234033_UHD.jpg)
 
-## 2026-08 月壁纸 (3 张)
+## 2026-08 月壁纸 (4 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-08-04 | 呼呼，太棒了！ | [下载](https://cn.bing.com/th?id=OHR.AdorableOwlet_ZH-CN6929234033_UHD.jpg) |
 | 2026-08-03 | 色彩鲜艳的船只，历久弥新的传统 | [下载](https://cn.bing.com/th?id=OHR.BoatsMalta_ZH-CN4708255775_UHD.jpg) |
 | 2026-08-02 | 色彩鲜艳的船只，历久弥新的传统 | [下载](https://cn.bing.com/th?id=OHR.HelsinkiBlue_ZH-CN3961551568_UHD.jpg) |
 | 2026-08-01 | 基拉韦厄火山的威力 | [下载](https://cn.bing.com/th?id=OHR.HawaiiLava_ZH-CN3257621771_UHD.jpg) |
