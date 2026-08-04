@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**呼呼，太棒了！** (2026-08-04)
+**秘境之门，匠心传世** (2026-08-05)
 
-![呼呼，太棒了！](https://cn.bing.com/th?id=OHR.AdorableOwlet_ZH-CN6929234033_1920x1080.jpg)
+![秘境之门，匠心传世](https://cn.bing.com/th?id=OHR.FezMorocco_ZH-CN7662339428_1920x1080.jpg)
 
-佛罗里达穴鸮幼鸟，开普科拉尔，佛罗里达州，美国 (© mlorenzphotography/Getty Images)
+非斯皇宫装饰华丽的大门，摩洛哥 (© cgst26/Shutterstock)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.AdorableOwlet_ZH-CN6929234033_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.FezMorocco_ZH-CN7662339428_UHD.jpg)
 
-## 2026-08 月壁纸 (4 张)
+## 2026-08 月壁纸 (5 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-08-05 | 秘境之门，匠心传世 | [下载](https://cn.bing.com/th?id=OHR.FezMorocco_ZH-CN7662339428_UHD.jpg) |
 | 2026-08-04 | 呼呼，太棒了！ | [下载](https://cn.bing.com/th?id=OHR.AdorableOwlet_ZH-CN6929234033_UHD.jpg) |
 | 2026-08-03 | 色彩鲜艳的船只，历久弥新的传统 | [下载](https://cn.bing.com/th?id=OHR.BoatsMalta_ZH-CN4708255775_UHD.jpg) |
 | 2026-08-02 | 色彩鲜艳的船只，历久弥新的传统 | [下载](https://cn.bing.com/th?id=OHR.HelsinkiBlue_ZH-CN3961551568_UHD.jpg) |
