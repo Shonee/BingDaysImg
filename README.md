@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**生死渡口，勇者的史诗** (2026-08-06)
+**迈向无限** (2026-08-08)
 
-![生死渡口，勇者的史诗](https://cn.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_1920x1080.jpg)
+![迈向无限](https://cn.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_1920x1080.jpg)
 
-马赛马拉迁徙的角马群横渡马拉河, 肯尼亚 (© Manoj Shah/Getty Images)
+蒂斯河畔斯托克顿无限桥，英格兰 (© Bahadir Yeniceri/Shutterstock)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_UHD.jpg)
 
-## 2026-08 月壁纸 (6 张)
+## 2026-08 月壁纸 (7 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-08-08 | 迈向无限 | [下载](https://cn.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_UHD.jpg) |
 | 2026-08-06 | 生死渡口，勇者的史诗 | [下载](https://cn.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_UHD.jpg) |
 | 2026-08-05 | 秘境之门，匠心传世 | [下载](https://cn.bing.com/th?id=OHR.FezMorocco_ZH-CN7662339428_UHD.jpg) |
 | 2026-08-04 | 呼呼，太棒了！ | [下载](https://cn.bing.com/th?id=OHR.AdorableOwlet_ZH-CN6929234033_UHD.jpg) |
