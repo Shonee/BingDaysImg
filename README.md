@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**迈向无限** (2026-08-08)
+**身份认同的建筑表达** (2026-08-09)
 
-![迈向无限](https://cn.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_1920x1080.jpg)
+![身份认同的建筑表达](https://cn.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_1920x1080.jpg)
 
-蒂斯河畔斯托克顿无限桥，英格兰 (© Bahadir Yeniceri/Shutterstock)
+让-马里·吉巴乌文化中心，新喀里多尼亚 (© Fabien Astre/Alamy)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_UHD.jpg)
 
-## 2026-08 月壁纸 (7 张)
+## 2026-08 月壁纸 (8 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-08-09 | 身份认同的建筑表达 | [下载](https://cn.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_UHD.jpg) |
 | 2026-08-08 | 迈向无限 | [下载](https://cn.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_UHD.jpg) |
 | 2026-08-06 | 生死渡口，勇者的史诗 | [下载](https://cn.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_UHD.jpg) |
 | 2026-08-05 | 秘境之门，匠心传世 | [下载](https://cn.bing.com/th?id=OHR.FezMorocco_ZH-CN7662339428_UHD.jpg) |
