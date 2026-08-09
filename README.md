@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**身份认同的建筑表达** (2026-08-09)
+**两片沙漠交汇之地** (2026-08-10)
 
-![身份认同的建筑表达](https://cn.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_1920x1080.jpg)
+![两片沙漠交汇之地](https://cn.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_1920x1080.jpg)
 
-让-马里·吉巴乌文化中心，新喀里多尼亚 (© Fabien Astre/Alamy)
+约书亚树国家公园，加利福尼亚州，美国 (© JJ Landscapes/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_UHD.jpg)
 
-## 2026-08 月壁纸 (8 张)
+## 2026-08 月壁纸 (9 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-08-10 | 两片沙漠交汇之地 | [下载](https://cn.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_UHD.jpg) |
 | 2026-08-09 | 身份认同的建筑表达 | [下载](https://cn.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_UHD.jpg) |
 | 2026-08-08 | 迈向无限 | [下载](https://cn.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_UHD.jpg) |
 | 2026-08-06 | 生死渡口，勇者的史诗 | [下载](https://cn.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_UHD.jpg) |
