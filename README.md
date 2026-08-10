@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**两片沙漠交汇之地** (2026-08-10)
+**绚丽多彩的哥本哈根** (2026-08-11)
 
-![两片沙漠交汇之地](https://cn.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_1920x1080.jpg)
+![绚丽多彩的哥本哈根](https://cn.bing.com/th?id=OHR.ColorfulCop_ZH-CN8015611442_1920x1080.jpg)
 
-约书亚树国家公园，加利福尼亚州，美国 (© JJ Landscapes/Getty Images)
+哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦 (© emicristea/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.ColorfulCop_ZH-CN8015611442_UHD.jpg)
 
-## 2026-08 月壁纸 (9 张)
+## 2026-08 月壁纸 (10 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-08-11 | 绚丽多彩的哥本哈根 | [下载](https://cn.bing.com/th?id=OHR.ColorfulCop_ZH-CN8015611442_UHD.jpg) |
 | 2026-08-10 | 两片沙漠交汇之地 | [下载](https://cn.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_UHD.jpg) |
 | 2026-08-09 | 身份认同的建筑表达 | [下载](https://cn.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_UHD.jpg) |
 | 2026-08-08 | 迈向无限 | [下载](https://cn.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_UHD.jpg) |
