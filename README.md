@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**值得守护的巨兽** (2026-08-12)
+**许个愿吧** (2026-08-13)
 
-![值得守护的巨兽](https://cn.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_1920x1080.jpg)
+![许个愿吧](https://cn.bing.com/th?id=OHR.PerseidasTenerife_ZH-CN8520379683_1920x1080.jpg)
 
-安博塞利国家公园的非洲草原象群，卡贾多郡，肯尼亚 (© Ibrahim Suha Derbent/Getty Images)
+泰德天文台上空的英仙座流星，加那利群岛，西班牙 (© Westend61/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.PerseidasTenerife_ZH-CN8520379683_UHD.jpg)
 
-## 2026-08 月壁纸 (11 张)
+## 2026-08 月壁纸 (12 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-08-13 | 许个愿吧 | [下载](https://cn.bing.com/th?id=OHR.PerseidasTenerife_ZH-CN8520379683_UHD.jpg) |
 | 2026-08-12 | 值得守护的巨兽 | [下载](https://cn.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_UHD.jpg) |
 | 2026-08-11 | 绚丽多彩的哥本哈根 | [下载](https://cn.bing.com/th?id=OHR.ColorfulCop_ZH-CN8015611442_UHD.jpg) |
 | 2026-08-10 | 两片沙漠交汇之地 | [下载](https://cn.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_UHD.jpg) |
