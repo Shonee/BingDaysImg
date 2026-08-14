@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**为动物脚掌而建，而非行人** (2026-08-14)
+**绝妙的平衡术** (2026-08-15)
 
-![为动物脚掌而建，而非行人](https://cn.bing.com/th?id=OHR.WildlifeCrossingPoland_ZH-CN9439167246_1920x1080.jpg)
+![绝妙的平衡术](https://cn.bing.com/th?id=OHR.ValleyDreams_ZH-CN9689713135_1920x1080.jpg)
 
-扎克舒夫附近的野生动物通道，波兰 (© bbsferrari/Getty Images)
+圣胡安县阿什斯利帕荒野地的奇岩柱，新墨西哥州，美国 (© Westend61/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.WildlifeCrossingPoland_ZH-CN9439167246_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.ValleyDreams_ZH-CN9689713135_UHD.jpg)
 
-## 2026-08 月壁纸 (13 张)
+## 2026-08 月壁纸 (14 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-08-15 | 绝妙的平衡术 | [下载](https://cn.bing.com/th?id=OHR.ValleyDreams_ZH-CN9689713135_UHD.jpg) |
 | 2026-08-14 | 为动物脚掌而建，而非行人 | [下载](https://cn.bing.com/th?id=OHR.WildlifeCrossingPoland_ZH-CN9439167246_UHD.jpg) |
 | 2026-08-13 | 许个愿吧 | [下载](https://cn.bing.com/th?id=OHR.PerseidasTenerife_ZH-CN8520379683_UHD.jpg) |
 | 2026-08-12 | 值得守护的巨兽 | [下载](https://cn.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_UHD.jpg) |
