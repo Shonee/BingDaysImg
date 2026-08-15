@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**绝妙的平衡术** (2026-08-15)
+**天鹅开启传奇之处** (2026-08-16)
 
-![绝妙的平衡术](https://cn.bing.com/th?id=OHR.ValleyDreams_ZH-CN9689713135_1920x1080.jpg)
+![天鹅开启传奇之处](https://cn.bing.com/th?id=OHR.RossErrillyRuins_ZH-CN9986322001_1920x1080.jpg)
 
-圣胡安县阿什斯利帕荒野地的奇岩柱，新墨西哥州，美国 (© Westend61/Getty Images)
+戈尔韦郡罗斯埃里利方济各会修道院遗址，康诺特省，爱尔兰 (© Maria Janus/Shutterstock)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.ValleyDreams_ZH-CN9689713135_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.RossErrillyRuins_ZH-CN9986322001_UHD.jpg)
 
-## 2026-08 月壁纸 (14 张)
+## 2026-08 月壁纸 (15 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-08-16 | 天鹅开启传奇之处 | [下载](https://cn.bing.com/th?id=OHR.RossErrillyRuins_ZH-CN9986322001_UHD.jpg) |
 | 2026-08-15 | 绝妙的平衡术 | [下载](https://cn.bing.com/th?id=OHR.ValleyDreams_ZH-CN9689713135_UHD.jpg) |
 | 2026-08-14 | 为动物脚掌而建，而非行人 | [下载](https://cn.bing.com/th?id=OHR.WildlifeCrossingPoland_ZH-CN9439167246_UHD.jpg) |
 | 2026-08-13 | 许个愿吧 | [下载](https://cn.bing.com/th?id=OHR.PerseidasTenerife_ZH-CN8520379683_UHD.jpg) |
