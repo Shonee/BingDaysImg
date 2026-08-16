@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**天鹅开启传奇之处** (2026-08-16)
+**珊瑚礁上的黄金地段** (2026-08-17)
 
-![天鹅开启传奇之处](https://cn.bing.com/th?id=OHR.RossErrillyRuins_ZH-CN9986322001_1920x1080.jpg)
+![珊瑚礁上的黄金地段](https://cn.bing.com/th?id=OHR.CabilaoClowns_ZH-CN0147033898_1920x1080.jpg)
 
-戈尔韦郡罗斯埃里利方济各会修道院遗址，康诺特省，爱尔兰 (© Maria Janus/Shutterstock)
+海葵中的三条眼斑双锯鱼，卡比劳岛，薄荷省，菲律宾 (© Franco Banfi/Nature Picture Library)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.RossErrillyRuins_ZH-CN9986322001_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.CabilaoClowns_ZH-CN0147033898_UHD.jpg)
 
-## 2026-08 月壁纸 (15 张)
+## 2026-08 月壁纸 (16 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-08-17 | 珊瑚礁上的黄金地段 | [下载](https://cn.bing.com/th?id=OHR.CabilaoClowns_ZH-CN0147033898_UHD.jpg) |
 | 2026-08-16 | 天鹅开启传奇之处 | [下载](https://cn.bing.com/th?id=OHR.RossErrillyRuins_ZH-CN9986322001_UHD.jpg) |
 | 2026-08-15 | 绝妙的平衡术 | [下载](https://cn.bing.com/th?id=OHR.ValleyDreams_ZH-CN9689713135_UHD.jpg) |
 | 2026-08-14 | 为动物脚掌而建，而非行人 | [下载](https://cn.bing.com/th?id=OHR.WildlifeCrossingPoland_ZH-CN9439167246_UHD.jpg) |
