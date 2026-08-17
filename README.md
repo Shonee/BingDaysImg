@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**珊瑚礁上的黄金地段** (2026-08-17)
+**星形城市的几何之美** (2026-08-18)
 
-![珊瑚礁上的黄金地段](https://cn.bing.com/th?id=OHR.CabilaoClowns_ZH-CN0147033898_1920x1080.jpg)
+![星形城市的几何之美](https://cn.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592_1920x1080.jpg)
 
-海葵中的三条眼斑双锯鱼，卡比劳岛，薄荷省，菲律宾 (© Franco Banfi/Nature Picture Library)
+弗留利要塞城市帕尔马诺瓦航拍图，意大利 (© Riccardo Saponi/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.CabilaoClowns_ZH-CN0147033898_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592_UHD.jpg)
 
-## 2026-08 月壁纸 (16 张)
+## 2026-08 月壁纸 (17 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-08-18 | 星形城市的几何之美 | [下载](https://cn.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592_UHD.jpg) |
 | 2026-08-17 | 珊瑚礁上的黄金地段 | [下载](https://cn.bing.com/th?id=OHR.CabilaoClowns_ZH-CN0147033898_UHD.jpg) |
 | 2026-08-16 | 天鹅开启传奇之处 | [下载](https://cn.bing.com/th?id=OHR.RossErrillyRuins_ZH-CN9986322001_UHD.jpg) |
 | 2026-08-15 | 绝妙的平衡术 | [下载](https://cn.bing.com/th?id=OHR.ValleyDreams_ZH-CN9689713135_UHD.jpg) |
