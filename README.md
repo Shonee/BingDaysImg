@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**浪潮间的通道** (2026-08-19)
+**鲸群之声** (2026-08-20)
 
-![浪潮间的通道](https://cn.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_1920x1080.jpg)
+![鲸群之声](https://cn.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_1920x1080.jpg)
 
-怀特克利夫公园，西温哥华，加拿大 (© Aolin Chen/Getty Images)
+林恩运河中浮出水面的虎鲸，奇尔卡特山脉附近，阿拉斯加州，美国 (© John Hyde/Alamy)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_UHD.jpg)
 
-## 2026-08 月壁纸 (18 张)
+## 2026-08 月壁纸 (19 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-08-20 | 鲸群之声 | [下载](https://cn.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_UHD.jpg) |
 | 2026-08-19 | 浪潮间的通道 | [下载](https://cn.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_UHD.jpg) |
 | 2026-08-18 | 星形城市的几何之美 | [下载](https://cn.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592_UHD.jpg) |
 | 2026-08-17 | 珊瑚礁上的黄金地段 | [下载](https://cn.bing.com/th?id=OHR.CabilaoClowns_ZH-CN0147033898_UHD.jpg) |
