@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**攀登在召唤** (2026-08-21)
+**天蓝色的翅膀** (2026-08-22)
 
-![攀登在召唤](https://cn.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_1920x1080.jpg)
+![天蓝色的翅膀](https://cn.bing.com/th?id=OHR.CommonBlue_ZH-CN8521430009_1920x1080.jpg)
 
-尤利尔山口蜿蜒的公路，瑞士 (© Westend61/Getty Images)
+普通蓝灰蝶，德文郡，英格兰 (© Ross Hoddinott/Nature Picture Library)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.CommonBlue_ZH-CN8521430009_UHD.jpg)
 
-## 2026-08 月壁纸 (20 张)
+## 2026-08 月壁纸 (21 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-08-22 | 天蓝色的翅膀 | [下载](https://cn.bing.com/th?id=OHR.CommonBlue_ZH-CN8521430009_UHD.jpg) |
 | 2026-08-21 | 攀登在召唤 | [下载](https://cn.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_UHD.jpg) |
 | 2026-08-20 | 鲸群之声 | [下载](https://cn.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_UHD.jpg) |
 | 2026-08-19 | 浪潮间的通道 | [下载](https://cn.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_UHD.jpg) |
