@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**天蓝色的翅膀** (2026-08-22)
+**暑气渐消，金秋已至** (2026-08-23)
 
-![天蓝色的翅膀](https://cn.bing.com/th?id=OHR.CommonBlue_ZH-CN8521430009_1920x1080.jpg)
+![暑气渐消，金秋已至](https://cn.bing.com/th?id=OHR.EndofHeatY26_ZH-CN8936468848_1920x1080.jpg)
 
-普通蓝灰蝶，德文郡，英格兰 (© Ross Hoddinott/Nature Picture Library)
+在处暑时节的村庄田野与寺庙佛塔，江阴市，江苏省，中国 (© jia yu/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.CommonBlue_ZH-CN8521430009_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.EndofHeatY26_ZH-CN8936468848_UHD.jpg)
 
-## 2026-08 月壁纸 (21 张)
+## 2026-08 月壁纸 (22 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-08-23 | 暑气渐消，金秋已至 | [下载](https://cn.bing.com/th?id=OHR.EndofHeatY26_ZH-CN8936468848_UHD.jpg) |
 | 2026-08-22 | 天蓝色的翅膀 | [下载](https://cn.bing.com/th?id=OHR.CommonBlue_ZH-CN8521430009_UHD.jpg) |
 | 2026-08-21 | 攀登在召唤 | [下载](https://cn.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_UHD.jpg) |
 | 2026-08-20 | 鲸群之声 | [下载](https://cn.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_UHD.jpg) |
