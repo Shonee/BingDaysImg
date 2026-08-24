@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**跨越历史** (2026-08-24)
+**守护美国瑰宝** (2026-08-25)
 
-![跨越历史](https://cn.bing.com/th?id=OHR.BKBridge_ZH-CN3870511222_1920x1080.jpg)
+![守护美国瑰宝](https://cn.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_1920x1080.jpg)
 
-布鲁克林大桥，纽约市，美国 (© shayes17/Getty Images)
+红木国家与州立公园的日出，加利福尼亚州，美国 (© HadelProductions/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.BKBridge_ZH-CN3870511222_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_UHD.jpg)
 
-## 2026-08 月壁纸 (23 张)
+## 2026-08 月壁纸 (24 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-08-25 | 守护美国瑰宝 | [下载](https://cn.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_UHD.jpg) |
 | 2026-08-24 | 跨越历史 | [下载](https://cn.bing.com/th?id=OHR.BKBridge_ZH-CN3870511222_UHD.jpg) |
 | 2026-08-23 | 暑气渐消，金秋已至 | [下载](https://cn.bing.com/th?id=OHR.EndofHeatY26_ZH-CN8936468848_UHD.jpg) |
 | 2026-08-22 | 天蓝色的翅膀 | [下载](https://cn.bing.com/th?id=OHR.CommonBlue_ZH-CN8521430009_UHD.jpg) |
