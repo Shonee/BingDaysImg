@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**流光溢彩的天空** (2026-08-26)
+**湖水、野生动物与奇景** (2026-08-27)
 
-![流光溢彩的天空](https://cn.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_1920x1080.jpg)
+![湖水、野生动物与奇景](https://cn.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009_1920x1080.jpg)
 
-基尔丘山上空的极光，冰岛 (© Cavan Images/Alamy)
+日出时的小红鹳群，马加迪湖，肯尼亚 (© Denis-Huot/Nature Picture Library)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009_UHD.jpg)
 
-## 2026-08 月壁纸 (25 张)
+## 2026-08 月壁纸 (26 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-08-27 | 湖水、野生动物与奇景 | [下载](https://cn.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009_UHD.jpg) |
 | 2026-08-26 | 流光溢彩的天空 | [下载](https://cn.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_UHD.jpg) |
 | 2026-08-25 | 守护美国瑰宝 | [下载](https://cn.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_UHD.jpg) |
 | 2026-08-24 | 跨越历史 | [下载](https://cn.bing.com/th?id=OHR.BKBridge_ZH-CN3870511222_UHD.jpg) |
