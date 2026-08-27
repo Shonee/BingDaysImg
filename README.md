@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**湖水、野生动物与奇景** (2026-08-27)
+**潮汐塑造的传奇** (2026-08-28)
 
-![湖水、野生动物与奇景](https://cn.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009_1920x1080.jpg)
+![潮汐塑造的传奇](https://cn.bing.com/th?id=OHR.MichelSunset_ZH-CN0822968543_1920x1080.jpg)
 
-日出时的小红鹳群，马加迪湖，肯尼亚 (© Denis-Huot/Nature Picture Library)
+涨潮时的圣米歇尔山，芒什省，诺曼底，法国 (© Clement LEONARD/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.MichelSunset_ZH-CN0822968543_UHD.jpg)
 
-## 2026-08 月壁纸 (26 张)
+## 2026-08 月壁纸 (27 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-08-28 | 潮汐塑造的传奇 | [下载](https://cn.bing.com/th?id=OHR.MichelSunset_ZH-CN0822968543_UHD.jpg) |
 | 2026-08-27 | 湖水、野生动物与奇景 | [下载](https://cn.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009_UHD.jpg) |
 | 2026-08-26 | 流光溢彩的天空 | [下载](https://cn.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_UHD.jpg) |
 | 2026-08-25 | 守护美国瑰宝 | [下载](https://cn.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_UHD.jpg) |
