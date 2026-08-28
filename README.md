@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**潮汐塑造的传奇** (2026-08-28)
+**读懂浪涛之间的讯息** (2026-08-29)
 
-![潮汐塑造的传奇](https://cn.bing.com/th?id=OHR.MichelSunset_ZH-CN0822968543_1920x1080.jpg)
+![读懂浪涛之间的讯息](https://cn.bing.com/th?id=OHR.SantaCatarina_ZH-CN4170292043_1920x1080.jpg)
 
-涨潮时的圣米歇尔山，芒什省，诺曼底，法国 (© Clement LEONARD/Getty Images)
+冲浪者航拍图，圣卡塔琳娜州，巴西 (© Wonderful Nature/Shutterstock)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.MichelSunset_ZH-CN0822968543_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.SantaCatarina_ZH-CN4170292043_UHD.jpg)
 
-## 2026-08 月壁纸 (27 张)
+## 2026-08 月壁纸 (28 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-08-29 | 读懂浪涛之间的讯息 | [下载](https://cn.bing.com/th?id=OHR.SantaCatarina_ZH-CN4170292043_UHD.jpg) |
 | 2026-08-28 | 潮汐塑造的传奇 | [下载](https://cn.bing.com/th?id=OHR.MichelSunset_ZH-CN0822968543_UHD.jpg) |
 | 2026-08-27 | 湖水、野生动物与奇景 | [下载](https://cn.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009_UHD.jpg) |
 | 2026-08-26 | 流光溢彩的天空 | [下载](https://cn.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_UHD.jpg) |
