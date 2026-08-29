@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**读懂浪涛之间的讯息** (2026-08-29)
+**名为鲨鱼的巨型鱼类** (2026-08-30)
 
-![读懂浪涛之间的讯息](https://cn.bing.com/th?id=OHR.SantaCatarina_ZH-CN4170292043_1920x1080.jpg)
+![名为鲨鱼的巨型鱼类](https://cn.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_1920x1080.jpg)
 
-冲浪者航拍图，圣卡塔琳娜州，巴西 (© Wonderful Nature/Shutterstock)
+鲸鲨与黄金鲹，极乐鸟湾，西巴布亚，印度尼西亚 (© Pete Oxford/Nature Picture Library)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.SantaCatarina_ZH-CN4170292043_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_UHD.jpg)
 
-## 2026-08 月壁纸 (28 张)
+## 2026-08 月壁纸 (29 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-08-30 | 名为鲨鱼的巨型鱼类 | [下载](https://cn.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_UHD.jpg) |
 | 2026-08-29 | 读懂浪涛之间的讯息 | [下载](https://cn.bing.com/th?id=OHR.SantaCatarina_ZH-CN4170292043_UHD.jpg) |
 | 2026-08-28 | 潮汐塑造的传奇 | [下载](https://cn.bing.com/th?id=OHR.MichelSunset_ZH-CN0822968543_UHD.jpg) |
 | 2026-08-27 | 湖水、野生动物与奇景 | [下载](https://cn.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009_UHD.jpg) |
