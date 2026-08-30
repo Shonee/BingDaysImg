@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**名为鲨鱼的巨型鱼类** (2026-08-30)
+**图案艺术的典范** (2026-08-31)
 
-![名为鲨鱼的巨型鱼类](https://cn.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_1920x1080.jpg)
+![图案艺术的典范](https://cn.bing.com/th?id=OHR.SamarkandCeiling_ZH-CN1818913296_1920x1080.jpg)
 
-鲸鲨与黄金鲹，极乐鸟湾，西巴布亚，印度尼西亚 (© Pete Oxford/Nature Picture Library)
+雷吉斯坦广场的建筑细节，撒马尔罕，乌兹别克斯坦 (© Piero M. Bianchi/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.SamarkandCeiling_ZH-CN1818913296_UHD.jpg)
 
-## 2026-08 月壁纸 (29 张)
+## 2026-08 月壁纸 (30 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-08-31 | 图案艺术的典范 | [下载](https://cn.bing.com/th?id=OHR.SamarkandCeiling_ZH-CN1818913296_UHD.jpg) |
 | 2026-08-30 | 名为鲨鱼的巨型鱼类 | [下载](https://cn.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_UHD.jpg) |
 | 2026-08-29 | 读懂浪涛之间的讯息 | [下载](https://cn.bing.com/th?id=OHR.SantaCatarina_ZH-CN4170292043_UHD.jpg) |
 | 2026-08-28 | 潮汐塑造的传奇 | [下载](https://cn.bing.com/th?id=OHR.MichelSunset_ZH-CN0822968543_UHD.jpg) |
