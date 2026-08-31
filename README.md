@@ -2,13 +2,13 @@
 
 ## 今日壁纸
 
-**图案艺术的典范** (2026-08-31)
+**脚下的世界** (2026-09-01)
 
-![图案艺术的典范](https://cn.bing.com/th?id=OHR.SamarkandCeiling_ZH-CN1818913296_1920x1080.jpg)
+![脚下的世界](https://cn.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_1920x1080.jpg)
 
-雷吉斯坦广场的建筑细节，撒马尔罕，乌兹别克斯坦 (© Piero M. Bianchi/Getty Images)
+马鬃小皮伞，白俄罗斯 (© Máté/Nature Picture Library)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.SamarkandCeiling_ZH-CN1818913296_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_UHD.jpg)
 
 ## 2026-08 月壁纸 (30 张)
 
@@ -47,7 +47,7 @@
 
 ## 历史归档
 
-[2026-08](./archives/2026-08.html) · [2026-07](./archives/2026-07.html)
+[2026-09](./archives/2026-09.html) · [2026-08](./archives/2026-08.html) · [2026-07](./archives/2026-07.html)
 
 ## 关于
 
