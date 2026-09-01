@@ -42,8 +42,11 @@ a{color:#a1a1aa;text-decoration:none}a:hover{color:#fafafa}
 <div class="nav"><a href="../index.html">&larr; 返回首页</a></div>
 <div class="section">
 <h1>2026-09 必应壁纸</h1>
-<span class="count">1 张壁纸</span>
+<span class="count">2 张壁纸</span>
 <div class="grid"><div class="card" onclick="openLightbox(0)">
+<img src="https://cn.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_1920x1080.jpg" alt="海岸边的缤纷色彩" loading="lazy">
+<div class="overlay"><span class="card-title">海岸边的缤纷色彩</span>
+<span class="card-date">2026-09-02</span></div></div><div class="card" onclick="openLightbox(1)">
 <img src="https://cn.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_1920x1080.jpg" alt="脚下的世界" loading="lazy">
 <div class="overlay"><span class="card-title">脚下的世界</span>
 <span class="card-date">2026-09-01</span></div></div></div>
@@ -57,7 +60,7 @@ a{color:#a1a1aa;text-decoration:none}a:hover{color:#fafafa}
 <div class="lb-info"><div class="lb-title" id="lb-title"></div><div class="lb-meta" id="lb-meta"></div></div>
 </div>
 <script>
-const items=[{"url": "https://cn.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_UHD.jpg", "title": "脚下的世界", "date": "2026-09-01", "cr": "马鬃小皮伞，白俄罗斯 (© Máté/Nature Picture Library)"}];
+const items=[{"url": "https://cn.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_UHD.jpg", "title": "海岸边的缤纷色彩", "date": "2026-09-02", "cr": "传统海滩小屋，索思沃尔德，萨福克遗产海岸，英格兰 (© stevendocwra/Getty Images)"}, {"url": "https://cn.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_UHD.jpg", "title": "脚下的世界", "date": "2026-09-01", "cr": "马鬃小皮伞，白俄罗斯 (© Máté/Nature Picture Library)"}];
 let currentIndex=0;
 function openLightbox(i){currentIndex=i;const w=items[i];document.getElementById('lb-img').src=w.url;document.getElementById('lb-title').textContent=w.title;document.getElementById('lb-meta').textContent=w.date+' · '+w.cr;document.getElementById('lb-download').href=w.url;document.getElementById('lightbox').classList.add('active');document.body.style.overflow='hidden';}
 function navigate(d){currentIndex=(currentIndex+d+items.length)%items.length;const w=items[currentIndex];document.getElementById('lb-img').src=w.url;document.getElementById('lb-title').textContent=w.title;document.getElementById('lb-meta').textContent=w.date+' · '+w.cr;document.getElementById('lb-download').href=w.url;}
