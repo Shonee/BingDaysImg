@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**海岸边的缤纷色彩** (2026-09-02)
+**一部守护荒野的法案** (2026-09-03)
 
-![海岸边的缤纷色彩](https://cn.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_1920x1080.jpg)
+![一部守护荒野的法案](https://cn.bing.com/th?id=OHR.AZWilderness_ZH-CN2664566131_1920x1080.jpg)
 
-传统海滩小屋，索思沃尔德，萨福克遗产海岸，英格兰 (© stevendocwra/Getty Images)
+郊狼丘，朱红悬崖国家纪念区，亚利桑那州，美国 (© James Hager/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.AZWilderness_ZH-CN2664566131_UHD.jpg)
 
-## 2026-09 月壁纸 (2 张)
+## 2026-09 月壁纸 (3 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-09-03 | 一部守护荒野的法案 | [下载](https://cn.bing.com/th?id=OHR.AZWilderness_ZH-CN2664566131_UHD.jpg) |
 | 2026-09-02 | 海岸边的缤纷色彩 | [下载](https://cn.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_UHD.jpg) |
 | 2026-09-01 | 脚下的世界 | [下载](https://cn.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_UHD.jpg) |
 
