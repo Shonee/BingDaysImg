@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**地平线上的红与白** (2026-09-04)
+**小小鸟儿，巨大影响** (2026-09-05)
 
-![地平线上的红与白](https://cn.bing.com/th?id=OHR.Westerheversand_ZH-CN0517707643_1920x1080.jpg)
+![小小鸟儿，巨大影响](https://cn.bing.com/th?id=OHR.GreenCrowned_ZH-CN0697075036_1920x1080.jpg)
 
-韦斯特黑弗的韦斯特黑弗桑德灯塔，石勒苏益格-荷尔斯泰因州，德国 (© bluejayphoto/Getty Images)
+龙虾爪花上取食的绿顶辉蜂鸟，哥斯达黎加 (© Paul Hobson/Nature Picture Library)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.Westerheversand_ZH-CN0517707643_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.GreenCrowned_ZH-CN0697075036_UHD.jpg)
 
-## 2026-09 月壁纸 (4 张)
+## 2026-09 月壁纸 (5 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-09-05 | 小小鸟儿，巨大影响 | [下载](https://cn.bing.com/th?id=OHR.GreenCrowned_ZH-CN0697075036_UHD.jpg) |
 | 2026-09-04 | 地平线上的红与白 | [下载](https://cn.bing.com/th?id=OHR.Westerheversand_ZH-CN0517707643_UHD.jpg) |
 | 2026-09-03 | 一部守护荒野的法案 | [下载](https://cn.bing.com/th?id=OHR.AZWilderness_ZH-CN2664566131_UHD.jpg) |
 | 2026-09-02 | 海岸边的缤纷色彩 | [下载](https://cn.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_UHD.jpg) |
