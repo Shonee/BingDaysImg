@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**倒影满湖的水库** (2026-09-06)
+**历史沿运河流淌之地** (2026-09-07)
 
-![倒影满湖的水库](https://cn.bing.com/th?id=OHR.LakeFyans_ZH-CN1067187791_1920x1080.jpg)
+![历史沿运河流淌之地](https://cn.bing.com/th?id=OHR.BambergTownhall_ZH-CN1407954732_1920x1080.jpg)
 
-菲安斯湖，格兰屏国家公园，维多利亚州，澳大利亚 (© tracielouise/Getty Images)
+老市政厅，班贝格，德国 (© SCStock/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.LakeFyans_ZH-CN1067187791_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.BambergTownhall_ZH-CN1407954732_UHD.jpg)
 
-## 2026-09 月壁纸 (6 张)
+## 2026-09 月壁纸 (7 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-09-07 | 历史沿运河流淌之地 | [下载](https://cn.bing.com/th?id=OHR.BambergTownhall_ZH-CN1407954732_UHD.jpg) |
 | 2026-09-06 | 倒影满湖的水库 | [下载](https://cn.bing.com/th?id=OHR.LakeFyans_ZH-CN1067187791_UHD.jpg) |
 | 2026-09-05 | 小小鸟儿，巨大影响 | [下载](https://cn.bing.com/th?id=OHR.GreenCrowned_ZH-CN0697075036_UHD.jpg) |
 | 2026-09-04 | 地平线上的红与白 | [下载](https://cn.bing.com/th?id=OHR.Westerheversand_ZH-CN0517707643_UHD.jpg) |
