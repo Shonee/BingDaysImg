@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**历史沿运河流淌之地** (2026-09-07)
+**金色田野** (2026-09-08)
 
-![历史沿运河流淌之地](https://cn.bing.com/th?id=OHR.BambergTownhall_ZH-CN1407954732_1920x1080.jpg)
+![金色田野](https://cn.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_1920x1080.jpg)
 
-老市政厅，班贝格，德国 (© SCStock/Getty Images)
+东米恩南唐斯国家公园谷物田中的山毛榉树，汉普郡，英格兰 (© Guy Edwardes/Minden Pictures)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.BambergTownhall_ZH-CN1407954732_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_UHD.jpg)
 
-## 2026-09 月壁纸 (7 张)
+## 2026-09 月壁纸 (8 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-09-08 | 金色田野 | [下载](https://cn.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_UHD.jpg) |
 | 2026-09-07 | 历史沿运河流淌之地 | [下载](https://cn.bing.com/th?id=OHR.BambergTownhall_ZH-CN1407954732_UHD.jpg) |
 | 2026-09-06 | 倒影满湖的水库 | [下载](https://cn.bing.com/th?id=OHR.LakeFyans_ZH-CN1067187791_UHD.jpg) |
 | 2026-09-05 | 小小鸟儿，巨大影响 | [下载](https://cn.bing.com/th?id=OHR.GreenCrowned_ZH-CN0697075036_UHD.jpg) |
