@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**印度西海岸的生活** (2026-09-09)
+**俯瞰大地拼图** (2026-09-10)
 
-![印度西海岸的生活](https://cn.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_1920x1080.jpg)
+![俯瞰大地拼图](https://cn.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_1920x1080.jpg)
 
-安科拉附近的加比特凯尼海滩，卡纳塔克邦，印度 (© Amith Nag Photography/Getty Images)
+奥尔韦拉航拍图，安达卢西亚，西班牙 (© Marco Bottigelli/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_UHD.jpg)
 
-## 2026-09 月壁纸 (9 张)
+## 2026-09 月壁纸 (10 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-09-10 | 俯瞰大地拼图 | [下载](https://cn.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_UHD.jpg) |
 | 2026-09-09 | 印度西海岸的生活 | [下载](https://cn.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_UHD.jpg) |
 | 2026-09-08 | 金色田野 | [下载](https://cn.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_UHD.jpg) |
 | 2026-09-07 | 历史沿运河流淌之地 | [下载](https://cn.bing.com/th?id=OHR.BambergTownhall_ZH-CN1407954732_UHD.jpg) |
