@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**俯瞰大地拼图** (2026-09-10)
+**地中海风情尽显** (2026-09-11)
 
-![俯瞰大地拼图](https://cn.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_1920x1080.jpg)
+![地中海风情尽显](https://cn.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_1920x1080.jpg)
 
-奥尔韦拉航拍图，安达卢西亚，西班牙 (© Marco Bottigelli/Getty Images)
+滨海自由城，法国里维埃拉，法国 (© StockByM/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg)
 
-## 2026-09 月壁纸 (10 张)
+## 2026-09 月壁纸 (11 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-09-11 | 地中海风情尽显 | [下载](https://cn.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg) |
 | 2026-09-10 | 俯瞰大地拼图 | [下载](https://cn.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_UHD.jpg) |
 | 2026-09-09 | 印度西海岸的生活 | [下载](https://cn.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_UHD.jpg) |
 | 2026-09-08 | 金色田野 | [下载](https://cn.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_UHD.jpg) |
