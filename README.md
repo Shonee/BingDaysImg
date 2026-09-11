@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**地中海风情尽显** (2026-09-11)
+**海浪与海岸的高手** (2026-09-12)
 
-![地中海风情尽显](https://cn.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_1920x1080.jpg)
+![海浪与海岸的高手](https://cn.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_1920x1080.jpg)
 
-滨海自由城，法国里维埃拉，法国 (© StockByM/Getty Images)
+墨西哥近海围猎沙丁鱼饵球的加州海狮，太平洋 (© Henley Spiers/Nature Picture Library)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_UHD.jpg)
 
-## 2026-09 月壁纸 (11 张)
+## 2026-09 月壁纸 (12 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-09-12 | 海浪与海岸的高手 | [下载](https://cn.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_UHD.jpg) |
 | 2026-09-11 | 地中海风情尽显 | [下载](https://cn.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg) |
 | 2026-09-10 | 俯瞰大地拼图 | [下载](https://cn.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_UHD.jpg) |
 | 2026-09-09 | 印度西海岸的生活 | [下载](https://cn.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_UHD.jpg) |
