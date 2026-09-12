@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**海浪与海岸的高手** (2026-09-12)
+**高处的珊瑚礁** (2026-09-13)
 
-![海浪与海岸的高手](https://cn.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_1920x1080.jpg)
+![高处的珊瑚礁](https://cn.bing.com/th?id=OHR.MisurinaPeak_ZH-CN3877105161_1920x1080.jpg)
 
-墨西哥近海围猎沙丁鱼饵球的加州海狮，太平洋 (© Henley Spiers/Nature Picture Library)
+米苏里纳群峰，多洛米蒂山脉，威尼托大区，意大利 (© Vithun Khamsong/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.MisurinaPeak_ZH-CN3877105161_UHD.jpg)
 
-## 2026-09 月壁纸 (12 张)
+## 2026-09 月壁纸 (13 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-09-13 | 高处的珊瑚礁 | [下载](https://cn.bing.com/th?id=OHR.MisurinaPeak_ZH-CN3877105161_UHD.jpg) |
 | 2026-09-12 | 海浪与海岸的高手 | [下载](https://cn.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_UHD.jpg) |
 | 2026-09-11 | 地中海风情尽显 | [下载](https://cn.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg) |
 | 2026-09-10 | 俯瞰大地拼图 | [下载](https://cn.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_UHD.jpg) |
