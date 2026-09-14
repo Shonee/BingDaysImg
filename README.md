@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**坚韧在此扎根** (2026-09-14)
+**最炫者生存** (2026-09-15)
 
-![坚韧在此扎根](https://cn.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_1920x1080.jpg)
+![最炫者生存](https://cn.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_1920x1080.jpg)
 
-地肤田，中国 (© lingqi xie/Getty Images)
+红绿金刚鹦鹉 (© markes51/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_UHD.jpg)
 
-## 2026-09 月壁纸 (14 张)
+## 2026-09 月壁纸 (15 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-09-15 | 最炫者生存 | [下载](https://cn.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_UHD.jpg) |
 | 2026-09-14 | 坚韧在此扎根 | [下载](https://cn.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_UHD.jpg) |
 | 2026-09-13 | 高处的珊瑚礁 | [下载](https://cn.bing.com/th?id=OHR.MisurinaPeak_ZH-CN3877105161_UHD.jpg) |
 | 2026-09-12 | 海浪与海岸的高手 | [下载](https://cn.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_UHD.jpg) |
