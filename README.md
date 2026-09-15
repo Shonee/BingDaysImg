@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**最炫者生存** (2026-09-15)
+**北极的新晋探索者** (2026-09-16)
 
-![最炫者生存](https://cn.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_1920x1080.jpg)
+![北极的新晋探索者](https://cn.bing.com/th?id=OHR.IcyCubs_ZH-CN5287408951_1920x1080.jpg)
 
-红绿金刚鹦鹉 (© markes51/Getty Images)
+斯瓦尔巴群岛玩耍的北极熊幼崽，挪威 (© Danny Green/Nature Picture Library)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.IcyCubs_ZH-CN5287408951_UHD.jpg)
 
-## 2026-09 月壁纸 (15 张)
+## 2026-09 月壁纸 (16 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-09-16 | 北极的新晋探索者 | [下载](https://cn.bing.com/th?id=OHR.IcyCubs_ZH-CN5287408951_UHD.jpg) |
 | 2026-09-15 | 最炫者生存 | [下载](https://cn.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_UHD.jpg) |
 | 2026-09-14 | 坚韧在此扎根 | [下载](https://cn.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_UHD.jpg) |
 | 2026-09-13 | 高处的珊瑚礁 | [下载](https://cn.bing.com/th?id=OHR.MisurinaPeak_ZH-CN3877105161_UHD.jpg) |
