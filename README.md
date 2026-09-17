@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**为丰收举杯** (2026-09-17)
+**穿越山口腹地** (2026-09-18)
 
-![为丰收举杯](https://cn.bing.com/th?id=OHR.Santenay_ZH-CN5676942384_1920x1080.jpg)
+![穿越山口腹地](https://cn.bing.com/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_1920x1080.jpg)
 
-桑特奈葡萄酒产区葡萄园中的索林风车，伯恩丘，勃艮第，法国 (© Marco Bottigelli/Getty Images)
+温纳茨山口，峰区国家公园，英格兰 (© Daniel_Kay/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.Santenay_ZH-CN5676942384_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_UHD.jpg)
 
-## 2026-09 月壁纸 (17 张)
+## 2026-09 月壁纸 (18 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-09-18 | 穿越山口腹地 | [下载](https://cn.bing.com/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_UHD.jpg) |
 | 2026-09-17 | 为丰收举杯 | [下载](https://cn.bing.com/th?id=OHR.Santenay_ZH-CN5676942384_UHD.jpg) |
 | 2026-09-16 | 北极的新晋探索者 | [下载](https://cn.bing.com/th?id=OHR.IcyCubs_ZH-CN5287408951_UHD.jpg) |
 | 2026-09-15 | 最炫者生存 | [下载](https://cn.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_UHD.jpg) |
