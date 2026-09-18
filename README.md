@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**穿越山口腹地** (2026-09-18)
+**慕尼黑啤酒节的阿尔卑斯之声** (2026-09-19)
 
-![穿越山口腹地](https://cn.bing.com/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_1920x1080.jpg)
+![慕尼黑啤酒节的阿尔卑斯之声](https://cn.bing.com/th?id=OHR.AlphornBavaria_ZH-CN5896237112_1920x1080.jpg)
 
-温纳茨山口，峰区国家公园，英格兰 (© Daniel_Kay/Getty Images)
+阿尔卑斯长号演奏者，巴伐利亚州，德国 (© U. J. Alexander/Shutterstock)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.AlphornBavaria_ZH-CN5896237112_UHD.jpg)
 
-## 2026-09 月壁纸 (18 张)
+## 2026-09 月壁纸 (19 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-09-19 | 慕尼黑啤酒节的阿尔卑斯之声 | [下载](https://cn.bing.com/th?id=OHR.AlphornBavaria_ZH-CN5896237112_UHD.jpg) |
 | 2026-09-18 | 穿越山口腹地 | [下载](https://cn.bing.com/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_UHD.jpg) |
 | 2026-09-17 | 为丰收举杯 | [下载](https://cn.bing.com/th?id=OHR.Santenay_ZH-CN5676942384_UHD.jpg) |
 | 2026-09-16 | 北极的新晋探索者 | [下载](https://cn.bing.com/th?id=OHR.IcyCubs_ZH-CN5287408951_UHD.jpg) |
