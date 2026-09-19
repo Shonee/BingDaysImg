@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**慕尼黑啤酒节的阿尔卑斯之声** (2026-09-19)
+**终获巴黎青睐的铁塔** (2026-09-20)
 
-![慕尼黑啤酒节的阿尔卑斯之声](https://cn.bing.com/th?id=OHR.AlphornBavaria_ZH-CN5896237112_1920x1080.jpg)
+![终获巴黎青睐的铁塔](https://cn.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_1920x1080.jpg)
 
-阿尔卑斯长号演奏者，巴伐利亚州，德国 (© U. J. Alexander/Shutterstock)
+日落时分的埃菲尔铁塔，巴黎，法国 (© Alexander Spatari/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.AlphornBavaria_ZH-CN5896237112_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_UHD.jpg)
 
-## 2026-09 月壁纸 (19 张)
+## 2026-09 月壁纸 (20 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-09-20 | 终获巴黎青睐的铁塔 | [下载](https://cn.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_UHD.jpg) |
 | 2026-09-19 | 慕尼黑啤酒节的阿尔卑斯之声 | [下载](https://cn.bing.com/th?id=OHR.AlphornBavaria_ZH-CN5896237112_UHD.jpg) |
 | 2026-09-18 | 穿越山口腹地 | [下载](https://cn.bing.com/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_UHD.jpg) |
 | 2026-09-17 | 为丰收举杯 | [下载](https://cn.bing.com/th?id=OHR.Santenay_ZH-CN5676942384_UHD.jpg) |
