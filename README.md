@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**终获巴黎青睐的铁塔** (2026-09-20)
+**皮毛与海洋之间的生命** (2026-09-21)
 
-![终获巴黎青睐的铁塔](https://cn.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_1920x1080.jpg)
+![皮毛与海洋之间的生命](https://cn.bing.com/th?id=OHR.GroomingOtter_ZH-CN6969472572_1920x1080.jpg)
 
-日落时分的埃菲尔铁塔，巴黎，法国 (© Alexander Spatari/Getty Images)
+正在梳理皮毛的海獭，蒙特雷湾，加利福尼亚州，美国 (© Suzi Eszterhas/Minden Pictures)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.GroomingOtter_ZH-CN6969472572_UHD.jpg)
 
-## 2026-09 月壁纸 (20 张)
+## 2026-09 月壁纸 (21 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-09-21 | 皮毛与海洋之间的生命 | [下载](https://cn.bing.com/th?id=OHR.GroomingOtter_ZH-CN6969472572_UHD.jpg) |
 | 2026-09-20 | 终获巴黎青睐的铁塔 | [下载](https://cn.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_UHD.jpg) |
 | 2026-09-19 | 慕尼黑啤酒节的阿尔卑斯之声 | [下载](https://cn.bing.com/th?id=OHR.AlphornBavaria_ZH-CN5896237112_UHD.jpg) |
 | 2026-09-18 | 穿越山口腹地 | [下载](https://cn.bing.com/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_UHD.jpg) |
