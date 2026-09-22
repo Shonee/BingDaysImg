@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**金色时节** (2026-09-22)
+**金秋平分，地坛染黄** (2026-09-23)
 
-![金色时节](https://cn.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_1920x1080.jpg)
+![金秋平分，地坛染黄](https://cn.bing.com/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091_1920x1080.jpg)
 
-瓜兹曼山口附近的秋日山杨林，犹他州，美国 (© Danita Delimont/Shutterstock)
+地坛公园秋日美景，北京，中国 (© by Wei/Adobestock)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091_UHD.jpg)
 
-## 2026-09 月壁纸 (22 张)
+## 2026-09 月壁纸 (23 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-09-23 | 金秋平分，地坛染黄 | [下载](https://cn.bing.com/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091_UHD.jpg) |
 | 2026-09-22 | 金色时节 | [下载](https://cn.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_UHD.jpg) |
 | 2026-09-21 | 皮毛与海洋之间的生命 | [下载](https://cn.bing.com/th?id=OHR.GroomingOtter_ZH-CN6969472572_UHD.jpg) |
 | 2026-09-20 | 终获巴黎青睐的铁塔 | [下载](https://cn.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_UHD.jpg) |
