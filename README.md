@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**金秋平分，地坛染黄** (2026-09-23)
+**火山灰与浪花相遇** (2026-09-24)
 
-![金秋平分，地坛染黄](https://cn.bing.com/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091_1920x1080.jpg)
+![火山灰与浪花相遇](https://cn.bing.com/th?id=OHR.ElGolfo_ZH-CN8329995759_1920x1080.jpg)
 
-地坛公园秋日美景，北京，中国 (© by Wei/Adobestock)
+黑色熔岩海滩鸟瞰图，埃尔戈尔福，兰萨罗特岛，加那利群岛，西班牙 (© Westend61/Adobe Stock)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.ElGolfo_ZH-CN8329995759_UHD.jpg)
 
-## 2026-09 月壁纸 (23 张)
+## 2026-09 月壁纸 (24 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-09-24 | 火山灰与浪花相遇 | [下载](https://cn.bing.com/th?id=OHR.ElGolfo_ZH-CN8329995759_UHD.jpg) |
 | 2026-09-23 | 金秋平分，地坛染黄 | [下载](https://cn.bing.com/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091_UHD.jpg) |
 | 2026-09-22 | 金色时节 | [下载](https://cn.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_UHD.jpg) |
 | 2026-09-21 | 皮毛与海洋之间的生命 | [下载](https://cn.bing.com/th?id=OHR.GroomingOtter_ZH-CN6969472572_UHD.jpg) |
