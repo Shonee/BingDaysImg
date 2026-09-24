@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**火山灰与浪花相遇** (2026-09-24)
+**当月亮也来赴会** (2026-09-25)
 
-![火山灰与浪花相遇](https://cn.bing.com/th?id=OHR.ElGolfo_ZH-CN8329995759_1920x1080.jpg)
+![当月亮也来赴会](https://cn.bing.com/th?id=OHR.MidAutumn2026_ZH-CN8947536773_1920x1080.jpg)
 
-黑色熔岩海滩鸟瞰图，埃尔戈尔福，兰萨罗特岛，加那利群岛，西班牙 (© Westend61/Adobe Stock)
+庆祝中秋节的中国灯笼 (© LeeYiuTung/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.ElGolfo_ZH-CN8329995759_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.MidAutumn2026_ZH-CN8947536773_UHD.jpg)
 
-## 2026-09 月壁纸 (24 张)
+## 2026-09 月壁纸 (25 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-09-25 | 当月亮也来赴会 | [下载](https://cn.bing.com/th?id=OHR.MidAutumn2026_ZH-CN8947536773_UHD.jpg) |
 | 2026-09-24 | 火山灰与浪花相遇 | [下载](https://cn.bing.com/th?id=OHR.ElGolfo_ZH-CN8329995759_UHD.jpg) |
 | 2026-09-23 | 金秋平分，地坛染黄 | [下载](https://cn.bing.com/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091_UHD.jpg) |
 | 2026-09-22 | 金色时节 | [下载](https://cn.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_UHD.jpg) |
