@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**写在大地上的故事** (2026-09-26)
+**深海夜花园** (2026-09-27)
 
-![写在大地上的故事](https://cn.bing.com/th?id=OHR.BearsEars_ZH-CN0496897450_1920x1080.jpg)
+![深海夜花园](https://cn.bing.com/th?id=OHR.DecoCrab_ZH-CN0973306994_1920x1080.jpg)
 
-熊耳国家纪念区附近的雪松台地和骡子角，犹他州，美国 (© Jeff Clay/Tandem Stills + Motion)
+海笔上的装饰蟹，科莫多国家公园，印度尼西亚 (© Alex Mustard/Nature Picture Library)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.BearsEars_ZH-CN0496897450_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.DecoCrab_ZH-CN0973306994_UHD.jpg)
 
-## 2026-09 月壁纸 (26 张)
+## 2026-09 月壁纸 (27 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-09-27 | 深海夜花园 | [下载](https://cn.bing.com/th?id=OHR.DecoCrab_ZH-CN0973306994_UHD.jpg) |
 | 2026-09-26 | 写在大地上的故事 | [下载](https://cn.bing.com/th?id=OHR.BearsEars_ZH-CN0496897450_UHD.jpg) |
 | 2026-09-25 | 当月亮也来赴会 | [下载](https://cn.bing.com/th?id=OHR.MidAutumn2026_ZH-CN8947536773_UHD.jpg) |
 | 2026-09-24 | 火山灰与浪花相遇 | [下载](https://cn.bing.com/th?id=OHR.ElGolfo_ZH-CN8329995759_UHD.jpg) |
