@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**深海夜花园** (2026-09-27)
+**可览美景的历史胜地** (2026-09-28)
 
-![深海夜花园](https://cn.bing.com/th?id=OHR.DecoCrab_ZH-CN0973306994_1920x1080.jpg)
+![可览美景的历史胜地](https://cn.bing.com/th?id=OHR.AmberHall_ZH-CN1223127100_1920x1080.jpg)
 
-海笔上的装饰蟹，科莫多国家公园，印度尼西亚 (© Alex Mustard/Nature Picture Library)
+斋浦尔附近琥珀堡内的 Sattais Katcheri 大厅，拉贾斯坦邦，印度 (© R.M. Nunes/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.DecoCrab_ZH-CN0973306994_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.AmberHall_ZH-CN1223127100_UHD.jpg)
 
-## 2026-09 月壁纸 (27 张)
+## 2026-09 月壁纸 (28 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-09-28 | 可览美景的历史胜地 | [下载](https://cn.bing.com/th?id=OHR.AmberHall_ZH-CN1223127100_UHD.jpg) |
 | 2026-09-27 | 深海夜花园 | [下载](https://cn.bing.com/th?id=OHR.DecoCrab_ZH-CN0973306994_UHD.jpg) |
 | 2026-09-26 | 写在大地上的故事 | [下载](https://cn.bing.com/th?id=OHR.BearsEars_ZH-CN0496897450_UHD.jpg) |
 | 2026-09-25 | 当月亮也来赴会 | [下载](https://cn.bing.com/th?id=OHR.MidAutumn2026_ZH-CN8947536773_UHD.jpg) |
