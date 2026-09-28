@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**可览美景的历史胜地** (2026-09-28)
+**冰川孕育之河** (2026-09-29)
 
-![可览美景的历史胜地](https://cn.bing.com/th?id=OHR.AmberHall_ZH-CN1223127100_1920x1080.jpg)
+![冰川孕育之河](https://cn.bing.com/th?id=OHR.KasilofRiver_ZH-CN2394091052_1920x1080.jpg)
 
-斋浦尔附近琥珀堡内的 Sattais Katcheri 大厅，拉贾斯坦邦，印度 (© R.M. Nunes/Getty Images)
+卡西洛夫河冰川融水滋养的湛蓝河水，阿拉斯加州，美国 (© jared lloyd/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.AmberHall_ZH-CN1223127100_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.KasilofRiver_ZH-CN2394091052_UHD.jpg)
 
-## 2026-09 月壁纸 (28 张)
+## 2026-09 月壁纸 (29 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-09-29 | 冰川孕育之河 | [下载](https://cn.bing.com/th?id=OHR.KasilofRiver_ZH-CN2394091052_UHD.jpg) |
 | 2026-09-28 | 可览美景的历史胜地 | [下载](https://cn.bing.com/th?id=OHR.AmberHall_ZH-CN1223127100_UHD.jpg) |
 | 2026-09-27 | 深海夜花园 | [下载](https://cn.bing.com/th?id=OHR.DecoCrab_ZH-CN0973306994_UHD.jpg) |
 | 2026-09-26 | 写在大地上的故事 | [下载](https://cn.bing.com/th?id=OHR.BearsEars_ZH-CN0496897450_UHD.jpg) |
