@@ -2,13 +2,13 @@
 
 ## 今日壁纸
 
-**一张令人过目难忘的脸** (2026-09-30)
+**在花岗岩中读懂时间** (2026-10-01)
 
-![一张令人过目难忘的脸](https://cn.bing.com/th?id=OHR.BeardReedling_ZH-CN2750632320_1920x1080.jpg)
+![在花岗岩中读懂时间](https://cn.bing.com/th?id=OHR.OlmstedPoint_ZH-CN4182671075_1920x1080.jpg)
 
-雄性文须雀，诺福克郡，英格兰 (© Andrew Sproule/Shutterstock)
+奥姆斯特德观景点的日落，优胜美地国家公园，加利福尼亚州，美国 (© Robb Hirsch/Tandem Stills + Motion)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.BeardReedling_ZH-CN2750632320_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.OlmstedPoint_ZH-CN4182671075_UHD.jpg)
 
 ## 2026-09 月壁纸 (30 张)
 
@@ -47,7 +47,7 @@
 
 ## 历史归档
 
-[2026-09](./archives/2026-09.html) · [2026-08](./archives/2026-08.html) · [2026-07](./archives/2026-07.html)
+[2026-10](./archives/2026-10.html) · [2026-09](./archives/2026-09.html) · [2026-08](./archives/2026-08.html) · [2026-07](./archives/2026-07.html)
 
 ## 关于
 
