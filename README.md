@@ -2,48 +2,20 @@
 
 ## 今日壁纸
 
-**在花岗岩中读懂时间** (2026-10-01)
+**一条值得保护的河流** (2026-10-02)
 
-![在花岗岩中读懂时间](https://cn.bing.com/th?id=OHR.OlmstedPoint_ZH-CN4182671075_1920x1080.jpg)
+![一条值得保护的河流](https://cn.bing.com/th?id=OHR.ChattoogaRiver_ZH-CN9453791496_1920x1080.jpg)
 
-奥姆斯特德观景点的日落，优胜美地国家公园，加利福尼亚州，美国 (© Robb Hirsch/Tandem Stills + Motion)
+查图加河，阿巴拉契亚山脉，北卡罗来纳州，美国 (© mtilghma/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.OlmstedPoint_ZH-CN4182671075_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.ChattoogaRiver_ZH-CN9453791496_UHD.jpg)
 
-## 2026-09 月壁纸 (30 张)
+## 2026-10 月壁纸 (2 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
-| 2026-09-30 | 一张令人过目难忘的脸 | [下载](https://cn.bing.com/th?id=OHR.BeardReedling_ZH-CN2750632320_UHD.jpg) |
-| 2026-09-29 | 冰川孕育之河 | [下载](https://cn.bing.com/th?id=OHR.KasilofRiver_ZH-CN2394091052_UHD.jpg) |
-| 2026-09-28 | 可览美景的历史胜地 | [下载](https://cn.bing.com/th?id=OHR.AmberHall_ZH-CN1223127100_UHD.jpg) |
-| 2026-09-27 | 深海夜花园 | [下载](https://cn.bing.com/th?id=OHR.DecoCrab_ZH-CN0973306994_UHD.jpg) |
-| 2026-09-26 | 写在大地上的故事 | [下载](https://cn.bing.com/th?id=OHR.BearsEars_ZH-CN0496897450_UHD.jpg) |
-| 2026-09-25 | 当月亮也来赴会 | [下载](https://cn.bing.com/th?id=OHR.MidAutumn2026_ZH-CN8947536773_UHD.jpg) |
-| 2026-09-24 | 火山灰与浪花相遇 | [下载](https://cn.bing.com/th?id=OHR.ElGolfo_ZH-CN8329995759_UHD.jpg) |
-| 2026-09-23 | 金秋平分，地坛染黄 | [下载](https://cn.bing.com/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091_UHD.jpg) |
-| 2026-09-22 | 金色时节 | [下载](https://cn.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_UHD.jpg) |
-| 2026-09-21 | 皮毛与海洋之间的生命 | [下载](https://cn.bing.com/th?id=OHR.GroomingOtter_ZH-CN6969472572_UHD.jpg) |
-| 2026-09-20 | 终获巴黎青睐的铁塔 | [下载](https://cn.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_UHD.jpg) |
-| 2026-09-19 | 慕尼黑啤酒节的阿尔卑斯之声 | [下载](https://cn.bing.com/th?id=OHR.AlphornBavaria_ZH-CN5896237112_UHD.jpg) |
-| 2026-09-18 | 穿越山口腹地 | [下载](https://cn.bing.com/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_UHD.jpg) |
-| 2026-09-17 | 为丰收举杯 | [下载](https://cn.bing.com/th?id=OHR.Santenay_ZH-CN5676942384_UHD.jpg) |
-| 2026-09-16 | 北极的新晋探索者 | [下载](https://cn.bing.com/th?id=OHR.IcyCubs_ZH-CN5287408951_UHD.jpg) |
-| 2026-09-15 | 最炫者生存 | [下载](https://cn.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_UHD.jpg) |
-| 2026-09-14 | 坚韧在此扎根 | [下载](https://cn.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_UHD.jpg) |
-| 2026-09-13 | 高处的珊瑚礁 | [下载](https://cn.bing.com/th?id=OHR.MisurinaPeak_ZH-CN3877105161_UHD.jpg) |
-| 2026-09-12 | 海浪与海岸的高手 | [下载](https://cn.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_UHD.jpg) |
-| 2026-09-11 | 地中海风情尽显 | [下载](https://cn.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg) |
-| 2026-09-10 | 俯瞰大地拼图 | [下载](https://cn.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_UHD.jpg) |
-| 2026-09-09 | 印度西海岸的生活 | [下载](https://cn.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_UHD.jpg) |
-| 2026-09-08 | 金色田野 | [下载](https://cn.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_UHD.jpg) |
-| 2026-09-07 | 历史沿运河流淌之地 | [下载](https://cn.bing.com/th?id=OHR.BambergTownhall_ZH-CN1407954732_UHD.jpg) |
-| 2026-09-06 | 倒影满湖的水库 | [下载](https://cn.bing.com/th?id=OHR.LakeFyans_ZH-CN1067187791_UHD.jpg) |
-| 2026-09-05 | 小小鸟儿，巨大影响 | [下载](https://cn.bing.com/th?id=OHR.GreenCrowned_ZH-CN0697075036_UHD.jpg) |
-| 2026-09-04 | 地平线上的红与白 | [下载](https://cn.bing.com/th?id=OHR.Westerheversand_ZH-CN0517707643_UHD.jpg) |
-| 2026-09-03 | 一部守护荒野的法案 | [下载](https://cn.bing.com/th?id=OHR.AZWilderness_ZH-CN2664566131_UHD.jpg) |
-| 2026-09-02 | 海岸边的缤纷色彩 | [下载](https://cn.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_UHD.jpg) |
-| 2026-09-01 | 脚下的世界 | [下载](https://cn.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_UHD.jpg) |
+| 2026-10-02 | 一条值得保护的河流 | [下载](https://cn.bing.com/th?id=OHR.ChattoogaRiver_ZH-CN9453791496_UHD.jpg) |
+| 2026-10-01 | 在花岗岩中读懂时间 | [下载](https://cn.bing.com/th?id=OHR.OlmstedPoint_ZH-CN4182671075_UHD.jpg) |
 
 ## 历史归档
 
