@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**捕捉、进食、重复** (2026-10-03)
+**宇宙在召唤** (2026-10-04)
 
-![捕捉、进食、重复](https://cn.bing.com/th?id=OHR.GrizzlySwim_ZH-CN1005455737_1920x1080.jpg)
+![宇宙在召唤](https://cn.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_1920x1080.jpg)
 
-美国阿拉斯加州克拉克湖国家公园和自然保护区银鲑溪中的棕熊 (© Danny Green/Nature Picture Library)
+阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日 (© EVA MARIE UZCATEGUI/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.GrizzlySwim_ZH-CN1005455737_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_UHD.jpg)
 
-## 2026-10 月壁纸 (3 张)
+## 2026-10 月壁纸 (4 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-10-04 | 宇宙在召唤 | [下载](https://cn.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_UHD.jpg) |
 | 2026-10-03 | 捕捉、进食、重复 | [下载](https://cn.bing.com/th?id=OHR.GrizzlySwim_ZH-CN1005455737_UHD.jpg) |
 | 2026-10-02 | 一条值得保护的河流 | [下载](https://cn.bing.com/th?id=OHR.ChattoogaRiver_ZH-CN9453791496_UHD.jpg) |
 | 2026-10-01 | 在花岗岩中读懂时间 | [下载](https://cn.bing.com/th?id=OHR.OlmstedPoint_ZH-CN4182671075_UHD.jpg) |
