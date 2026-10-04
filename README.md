@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**宇宙在召唤** (2026-10-04)
+**纵身一跃，一次一课** (2026-10-05)
 
-![宇宙在召唤](https://cn.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_1920x1080.jpg)
+![纵身一跃，一次一课](https://cn.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_1920x1080.jpg)
 
-阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日 (© EVA MARIE UZCATEGUI/Getty Images)
+南极洲的阿德利企鹅 (© Otto Plantema/Minden Pictures)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_UHD.jpg)
 
-## 2026-10 月壁纸 (4 张)
+## 2026-10 月壁纸 (5 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-10-05 | 纵身一跃，一次一课 | [下载](https://cn.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_UHD.jpg) |
 | 2026-10-04 | 宇宙在召唤 | [下载](https://cn.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_UHD.jpg) |
 | 2026-10-03 | 捕捉、进食、重复 | [下载](https://cn.bing.com/th?id=OHR.GrizzlySwim_ZH-CN1005455737_UHD.jpg) |
 | 2026-10-02 | 一条值得保护的河流 | [下载](https://cn.bing.com/th?id=OHR.ChattoogaRiver_ZH-CN9453791496_UHD.jpg) |
