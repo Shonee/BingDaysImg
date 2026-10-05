@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**纵身一跃，一次一课** (2026-10-05)
+**条纹中的地球故事** (2026-10-06)
 
-![纵身一跃，一次一课](https://cn.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_1920x1080.jpg)
+![条纹中的地球故事](https://cn.bing.com/th?id=OHR.DanxiaLandform_ZH-CN2386060246_1920x1080.jpg)
 
-南极洲的阿德利企鹅 (© Otto Plantema/Minden Pictures)
+丹霞地貌，张掖国家地质公园，甘肃省，中国 (© Weiquan Lin/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.DanxiaLandform_ZH-CN2386060246_UHD.jpg)
 
-## 2026-10 月壁纸 (5 张)
+## 2026-10 月壁纸 (6 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-10-06 | 条纹中的地球故事 | [下载](https://cn.bing.com/th?id=OHR.DanxiaLandform_ZH-CN2386060246_UHD.jpg) |
 | 2026-10-05 | 纵身一跃，一次一课 | [下载](https://cn.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_UHD.jpg) |
 | 2026-10-04 | 宇宙在召唤 | [下载](https://cn.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_UHD.jpg) |
 | 2026-10-03 | 捕捉、进食、重复 | [下载](https://cn.bing.com/th?id=OHR.GrizzlySwim_ZH-CN1005455737_UHD.jpg) |
