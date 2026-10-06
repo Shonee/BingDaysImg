@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**条纹中的地球故事** (2026-10-06)
+**迷惑不解？沿着小径走** (2026-10-07)
 
-![条纹中的地球故事](https://cn.bing.com/th?id=OHR.DanxiaLandform_ZH-CN2386060246_1920x1080.jpg)
+![迷惑不解？沿着小径走](https://cn.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_1920x1080.jpg)
 
-丹霞地貌，张掖国家地质公园，甘肃省，中国 (© Weiquan Lin/Getty Images)
+覆满苔藓的岩石，英国格洛斯特郡谜林，迪恩森林，格洛斯特郡，英格兰 (© Fulcanelli_AOS/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.DanxiaLandform_ZH-CN2386060246_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_UHD.jpg)
 
-## 2026-10 月壁纸 (6 张)
+## 2026-10 月壁纸 (7 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-10-07 | 迷惑不解？沿着小径走 | [下载](https://cn.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_UHD.jpg) |
 | 2026-10-06 | 条纹中的地球故事 | [下载](https://cn.bing.com/th?id=OHR.DanxiaLandform_ZH-CN2386060246_UHD.jpg) |
 | 2026-10-05 | 纵身一跃，一次一课 | [下载](https://cn.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_UHD.jpg) |
 | 2026-10-04 | 宇宙在召唤 | [下载](https://cn.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_UHD.jpg) |
