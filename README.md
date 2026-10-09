@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**科西嘉岛的岩石前哨** (2026-10-09)
+**迁飞路线上的生命** (2026-10-10)
 
-![科西嘉岛的岩石前哨](https://cn.bing.com/th?id=OHR.IlesSanguinaires_ZH-CN3149346035_1920x1080.jpg)
+![迁飞路线上的生命](https://cn.bing.com/th?id=OHR.CormorantsFlight_ZH-CN0770863330_1920x1080.jpg)
 
-桑吉奈尔群岛景观，摄自科西嘉岛，法国 (© Francesco Riccardo Iacomino/Getty Images)
+蒙特雷湾上空的双冠鸬鹚，加利福尼亚州，美国 (© Hiroya Minakuchi/Minden Pictures)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.IlesSanguinaires_ZH-CN3149346035_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.CormorantsFlight_ZH-CN0770863330_UHD.jpg)
 
-## 2026-10 月壁纸 (9 张)
+## 2026-10 月壁纸 (10 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-10-10 | 迁飞路线上的生命 | [下载](https://cn.bing.com/th?id=OHR.CormorantsFlight_ZH-CN0770863330_UHD.jpg) |
 | 2026-10-09 | 科西嘉岛的岩石前哨 | [下载](https://cn.bing.com/th?id=OHR.IlesSanguinaires_ZH-CN3149346035_UHD.jpg) |
 | 2026-10-08 | 现在你“海”能看见我…… | [下载](https://cn.bing.com/th?id=OHR.MayotteOctopus_ZH-CN2837659998_UHD.jpg) |
 | 2026-10-07 | 迷惑不解？沿着小径走 | [下载](https://cn.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_UHD.jpg) |
