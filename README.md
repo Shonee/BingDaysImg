@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**迁飞路线上的生命** (2026-10-10)
+**秋色中转动的水轮** (2026-10-11)
 
-![迁飞路线上的生命](https://cn.bing.com/th?id=OHR.CormorantsFlight_ZH-CN0770863330_1920x1080.jpg)
+![秋色中转动的水轮](https://cn.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_1920x1080.jpg)
 
-蒙特雷湾上空的双冠鸬鹚，加利福尼亚州，美国 (© Hiroya Minakuchi/Minden Pictures)
+格莱德溪磨坊，巴布科克州立公园，西弗吉尼亚州，美国 (© dszc/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.CormorantsFlight_ZH-CN0770863330_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_UHD.jpg)
 
-## 2026-10 月壁纸 (10 张)
+## 2026-10 月壁纸 (11 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-10-11 | 秋色中转动的水轮 | [下载](https://cn.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_UHD.jpg) |
 | 2026-10-10 | 迁飞路线上的生命 | [下载](https://cn.bing.com/th?id=OHR.CormorantsFlight_ZH-CN0770863330_UHD.jpg) |
 | 2026-10-09 | 科西嘉岛的岩石前哨 | [下载](https://cn.bing.com/th?id=OHR.IlesSanguinaires_ZH-CN3149346035_UHD.jpg) |
 | 2026-10-08 | 现在你“海”能看见我…… | [下载](https://cn.bing.com/th?id=OHR.MayotteOctopus_ZH-CN2837659998_UHD.jpg) |
