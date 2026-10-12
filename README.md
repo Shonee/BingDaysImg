@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**从铁轨到潮汐** (2026-10-12)
+**蓝与绿的交响曲** (2026-10-13)
 
-![从铁轨到潮汐](https://cn.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_1920x1080.jpg)
+![蓝与绿的交响曲](https://cn.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_1920x1080.jpg)
 
-曼布尔斯码头，斯旺西，威尔士 (© Helen Hotson/Shutterstock)
+普利特维采湖群国家公园，克罗地亚 (© Jan Wlodarczyk/Alamy)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg)
 
-## 2026-10 月壁纸 (12 张)
+## 2026-10 月壁纸 (13 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-10-13 | 蓝与绿的交响曲 | [下载](https://cn.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg) |
 | 2026-10-12 | 从铁轨到潮汐 | [下载](https://cn.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_UHD.jpg) |
 | 2026-10-11 | 秋色中转动的水轮 | [下载](https://cn.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_UHD.jpg) |
 | 2026-10-10 | 迁飞路线上的生命 | [下载](https://cn.bing.com/th?id=OHR.CormorantsFlight_ZH-CN0770863330_UHD.jpg) |
