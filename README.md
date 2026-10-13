@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**蓝与绿的交响曲** (2026-10-13)
+**穿越时间的螺旋** (2026-10-14)
 
-![蓝与绿的交响曲](https://cn.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_1920x1080.jpg)
+![穿越时间的螺旋](https://cn.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_1920x1080.jpg)
 
-普利特维采湖群国家公园，克罗地亚 (© Jan Wlodarczyk/Alamy)
+侏罗纪时期的菊石化石 (© J Nemchinova/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg)
 
-## 2026-10 月壁纸 (13 张)
+## 2026-10 月壁纸 (14 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-10-14 | 穿越时间的螺旋 | [下载](https://cn.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg) |
 | 2026-10-13 | 蓝与绿的交响曲 | [下载](https://cn.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg) |
 | 2026-10-12 | 从铁轨到潮汐 | [下载](https://cn.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_UHD.jpg) |
 | 2026-10-11 | 秋色中转动的水轮 | [下载](https://cn.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_UHD.jpg) |
