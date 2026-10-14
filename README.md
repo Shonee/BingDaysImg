@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**穿越时间的螺旋** (2026-10-14)
+**桥梁、屋顶与暮色** (2026-10-15)
 
-![穿越时间的螺旋](https://cn.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_1920x1080.jpg)
+![桥梁、屋顶与暮色](https://cn.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_1920x1080.jpg)
 
-侏罗纪时期的菊石化石 (© J Nemchinova/Getty Images)
+弗罗茨瓦夫集市广场景观，摄自女巫桥，弗罗茨瓦夫，波兰 (© Piotr Mitelski/Shutterstock)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg)
 
-## 2026-10 月壁纸 (14 张)
+## 2026-10 月壁纸 (15 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-10-15 | 桥梁、屋顶与暮色 | [下载](https://cn.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg) |
 | 2026-10-14 | 穿越时间的螺旋 | [下载](https://cn.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg) |
 | 2026-10-13 | 蓝与绿的交响曲 | [下载](https://cn.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg) |
 | 2026-10-12 | 从铁轨到潮汐 | [下载](https://cn.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_UHD.jpg) |
