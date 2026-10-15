@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**桥梁、屋顶与暮色** (2026-10-15)
+**一窥科罗拉多群峰** (2026-10-16)
 
-![桥梁、屋顶与暮色](https://cn.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_1920x1080.jpg)
+![一窥科罗拉多群峰](https://cn.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_1920x1080.jpg)
 
-弗罗茨瓦夫集市广场景观，摄自女巫桥，弗罗茨瓦夫，波兰 (© Piotr Mitelski/Shutterstock)
+斯奈费尔斯山，里奇韦附近的圣胡安山脉，科罗拉多州，美国 (© lightphoto/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_UHD.jpg)
 
-## 2026-10 月壁纸 (15 张)
+## 2026-10 月壁纸 (16 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-10-16 | 一窥科罗拉多群峰 | [下载](https://cn.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_UHD.jpg) |
 | 2026-10-15 | 桥梁、屋顶与暮色 | [下载](https://cn.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg) |
 | 2026-10-14 | 穿越时间的螺旋 | [下载](https://cn.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg) |
 | 2026-10-13 | 蓝与绿的交响曲 | [下载](https://cn.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg) |
