@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**一窥科罗拉多群峰** (2026-10-16)
+**发掘尘封的过去** (2026-10-17)
 
-![一窥科罗拉多群峰](https://cn.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_1920x1080.jpg)
+![发掘尘封的过去](https://cn.bing.com/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_1920x1080.jpg)
 
-斯奈费尔斯山，里奇韦附近的圣胡安山脉，科罗拉多州，美国 (© lightphoto/Getty Images)
+肖维岩洞艺术作品等比例复制品，瓦隆蓬达尔克，法国 (© Audrey Poree/Alamy)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_UHD.jpg)
 
-## 2026-10 月壁纸 (16 张)
+## 2026-10 月壁纸 (17 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-10-17 | 发掘尘封的过去 | [下载](https://cn.bing.com/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_UHD.jpg) |
 | 2026-10-16 | 一窥科罗拉多群峰 | [下载](https://cn.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_UHD.jpg) |
 | 2026-10-15 | 桥梁、屋顶与暮色 | [下载](https://cn.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg) |
 | 2026-10-14 | 穿越时间的螺旋 | [下载](https://cn.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg) |
