@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**发掘尘封的过去** (2026-10-17)
+**75载，风华正茂** (2026-10-18)
 
-![发掘尘封的过去](https://cn.bing.com/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_1920x1080.jpg)
+![75载，风华正茂](https://cn.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_1920x1080.jpg)
 
-肖维岩洞艺术作品等比例复制品，瓦隆蓬达尔克，法国 (© Audrey Poree/Alamy)
+多巴达恩城堡，兰贝里斯，斯诺登尼亚国家公园，威尔士 (© joe daniel price/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_UHD.jpg)
 
-## 2026-10 月壁纸 (17 张)
+## 2026-10 月壁纸 (18 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-10-18 | 75载，风华正茂 | [下载](https://cn.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_UHD.jpg) |
 | 2026-10-17 | 发掘尘封的过去 | [下载](https://cn.bing.com/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_UHD.jpg) |
 | 2026-10-16 | 一窥科罗拉多群峰 | [下载](https://cn.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_UHD.jpg) |
 | 2026-10-15 | 桥梁、屋顶与暮色 | [下载](https://cn.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg) |
