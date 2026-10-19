@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**水上通衢** (2026-10-19)
+**慢节奏生活** (2026-10-20)
 
-![水上通衢](https://cn.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_1920x1080.jpg)
+![慢节奏生活](https://cn.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_1920x1080.jpg)
 
-大运河，威尼斯，意大利 (© Juan Romero/Cavan Images)
+褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎加 (© Suzi Eszterhas/Minden Pictures)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg)
 
-## 2026-10 月壁纸 (19 张)
+## 2026-10 月壁纸 (20 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-10-20 | 慢节奏生活 | [下载](https://cn.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg) |
 | 2026-10-19 | 水上通衢 | [下载](https://cn.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_UHD.jpg) |
 | 2026-10-18 | 75载，风华正茂 | [下载](https://cn.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_UHD.jpg) |
 | 2026-10-17 | 发掘尘封的过去 | [下载](https://cn.bing.com/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_UHD.jpg) |
