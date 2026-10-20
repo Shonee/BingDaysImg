@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**慢节奏生活** (2026-10-20)
+**飞掠河面** (2026-10-21)
 
-![慢节奏生活](https://cn.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_1920x1080.jpg)
+![飞掠河面](https://cn.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_1920x1080.jpg)
 
-褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎加 (© Suzi Eszterhas/Minden Pictures)
+香江上的阮潢桥，顺化，越南 (© VU PHAM VAN/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg)
 
-## 2026-10 月壁纸 (20 张)
+## 2026-10 月壁纸 (21 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-10-21 | 飞掠河面 | [下载](https://cn.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg) |
 | 2026-10-20 | 慢节奏生活 | [下载](https://cn.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg) |
 | 2026-10-19 | 水上通衢 | [下载](https://cn.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_UHD.jpg) |
 | 2026-10-18 | 75载，风华正茂 | [下载](https://cn.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_UHD.jpg) |
