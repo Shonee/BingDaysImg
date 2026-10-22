@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**静水映斑斓** (2026-10-22)
+**荒野伙伴** (2026-10-23)
 
-![静水映斑斓](https://cn.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_1920x1080.jpg)
+![荒野伙伴](https://cn.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_1920x1080.jpg)
 
-内藏山国立公园的秋景，韩国 (© Twenty47studio/Getty Images)
+两只灰狼，黄石国家公园，怀俄明州，美国 (© John Morrison/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg)
 
-## 2026-10 月壁纸 (22 张)
+## 2026-10 月壁纸 (23 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-10-23 | 荒野伙伴 | [下载](https://cn.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg) |
 | 2026-10-22 | 静水映斑斓 | [下载](https://cn.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg) |
 | 2026-10-21 | 飞掠河面 | [下载](https://cn.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg) |
 | 2026-10-20 | 慢节奏生活 | [下载](https://cn.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg) |
