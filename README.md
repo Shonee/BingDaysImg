@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**荒野伙伴** (2026-10-23)
+**书香里的极致华美** (2026-10-24)
 
-![荒野伙伴](https://cn.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_1920x1080.jpg)
+![书香里的极致华美](https://cn.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_1920x1080.jpg)
 
-两只灰狼，黄石国家公园，怀俄明州，美国 (© John Morrison/Getty Images)
+皇家葡萄牙语阅览室，里约热内卢，巴西 (© Antonio Salaverry/Shutterstock)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_UHD.jpg)
 
-## 2026-10 月壁纸 (23 张)
+## 2026-10 月壁纸 (24 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-10-24 | 书香里的极致华美 | [下载](https://cn.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_UHD.jpg) |
 | 2026-10-23 | 荒野伙伴 | [下载](https://cn.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg) |
 | 2026-10-22 | 静水映斑斓 | [下载](https://cn.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg) |
 | 2026-10-21 | 飞掠河面 | [下载](https://cn.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg) |
