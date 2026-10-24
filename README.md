@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**书香里的极致华美** (2026-10-24)
+**群峰与宁静相遇之地** (2026-10-25)
 
-![书香里的极致华美](https://cn.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_1920x1080.jpg)
+![群峰与宁静相遇之地](https://cn.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_1920x1080.jpg)
 
-皇家葡萄牙语阅览室，里约热内卢，巴西 (© Antonio Salaverry/Shutterstock)
+玛琳湖，贾斯珀国家公园，艾伯塔省，加拿大 (© Andrey Popov/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_UHD.jpg)
 
-## 2026-10 月壁纸 (24 张)
+## 2026-10 月壁纸 (25 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-10-25 | 群峰与宁静相遇之地 | [下载](https://cn.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_UHD.jpg) |
 | 2026-10-24 | 书香里的极致华美 | [下载](https://cn.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_UHD.jpg) |
 | 2026-10-23 | 荒野伙伴 | [下载](https://cn.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg) |
 | 2026-10-22 | 静水映斑斓 | [下载](https://cn.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg) |
