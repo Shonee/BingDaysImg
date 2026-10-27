@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**大自然的金色明镜** (2026-10-27)
+**历史守望之地** (2026-10-28)
 
-![大自然的金色明镜](https://cn.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_1920x1080.jpg)
+![历史守望之地](https://cn.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_1920x1080.jpg)
 
-秋叶缤纷的池杉林，乔治亚州，美国 (© Chris Moore/Getty Images)
+库涅季采山城堡，波希米亚，捷克 (© Marek Saroch/Alamy)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg)
 
-## 2026-10 月壁纸 (27 张)
+## 2026-10 月壁纸 (28 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-10-28 | 历史守望之地 | [下载](https://cn.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg) |
 | 2026-10-27 | 大自然的金色明镜 | [下载](https://cn.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_UHD.jpg) |
 | 2026-10-26 | 大自然的秋日乐章 | [下载](https://cn.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_UHD.jpg) |
 | 2026-10-25 | 群峰与宁静相遇之地 | [下载](https://cn.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_UHD.jpg) |
