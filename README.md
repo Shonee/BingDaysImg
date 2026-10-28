@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**历史守望之地** (2026-10-28)
+**薄雾邂逅千年时光** (2026-10-29)
 
-![历史守望之地](https://cn.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_1920x1080.jpg)
+![薄雾邂逅千年时光](https://cn.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_1920x1080.jpg)
 
-库涅季采山城堡，波希米亚，捷克 (© Marek Saroch/Alamy)
+立石，埃夫伯里，威尔特郡，英格兰 (© George W Johnson/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_UHD.jpg)
 
-## 2026-10 月壁纸 (28 张)
+## 2026-10 月壁纸 (29 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-10-29 | 薄雾邂逅千年时光 | [下载](https://cn.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_UHD.jpg) |
 | 2026-10-28 | 历史守望之地 | [下载](https://cn.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg) |
 | 2026-10-27 | 大自然的金色明镜 | [下载](https://cn.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_UHD.jpg) |
 | 2026-10-26 | 大自然的秋日乐章 | [下载](https://cn.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_UHD.jpg) |
