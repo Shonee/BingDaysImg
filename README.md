@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**展翅高飞的时节** (2026-10-30)
+**往昔帝国的幽影** (2026-10-31)
 
-![展翅高飞的时节](https://cn.bing.com/th?id=OHR.AutumnCranes_ZH-CN5772055404_1920x1080.jpg)
+![往昔帝国的幽影](https://cn.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_1920x1080.jpg)
 
-沙丘鹤，博斯克德尔阿帕奇国家野生动物保护区，新墨西哥州，美国 (© Terry St.Louis/Getty Images)
+圣巴尔多禄茂教堂，法兰克福，德国 (© AlxeyPnferov/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.AutumnCranes_ZH-CN5772055404_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg)
 
-## 2026-10 月壁纸 (30 张)
+## 2026-10 月壁纸 (31 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-10-31 | 往昔帝国的幽影 | [下载](https://cn.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg) |
 | 2026-10-30 | 展翅高飞的时节 | [下载](https://cn.bing.com/th?id=OHR.AutumnCranes_ZH-CN5772055404_UHD.jpg) |
 | 2026-10-29 | 薄雾邂逅千年时光 | [下载](https://cn.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_UHD.jpg) |
 | 2026-10-28 | 历史守望之地 | [下载](https://cn.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg) |
