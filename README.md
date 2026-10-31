@@ -2,13 +2,13 @@
 
 ## 今日壁纸
 
-**往昔帝国的幽影** (2026-10-31)
+**林间迷雾** (2026-11-01)
 
-![往昔帝国的幽影](https://cn.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_1920x1080.jpg)
+![林间迷雾](https://cn.bing.com/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_1920x1080.jpg)
 
-圣巴尔多禄茂教堂，法兰克福，德国 (© AlxeyPnferov/Getty Images)
+黑森林，巴登-符腾堡州，德国 (© Britus/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_UHD.jpg)
 
 ## 2026-10 月壁纸 (31 张)
 
@@ -48,7 +48,7 @@
 
 ## 历史归档
 
-[2026-10](./archives/2026-10.html) · [2026-09](./archives/2026-09.html) · [2026-08](./archives/2026-08.html) · [2026-07](./archives/2026-07.html)
+[2026-11](./archives/2026-11.html) · [2026-10](./archives/2026-10.html) · [2026-09](./archives/2026-09.html) · [2026-08](./archives/2026-08.html) · [2026-07](./archives/2026-07.html)
 
 ## 关于
 
