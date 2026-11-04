@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**泛舟如画秋林** (2026-11-04)
+**向山巅再迈一步** (2026-11-05)
 
-![泛舟如画秋林](https://cn.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_1920x1080.jpg)
+![向山巅再迈一步](https://cn.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_1920x1080.jpg)
 
-五彩落羽杉间划船的人们，宣城，安徽省，中国 (© Jackal Pan/Getty Images)
+石墙边的木制翻越梯，黑岩，湖区，英格兰 (© Alex Treadway/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg)
 
-## 2026-11 月壁纸 (4 张)
+## 2026-11 月壁纸 (5 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-11-05 | 向山巅再迈一步 | [下载](https://cn.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg) |
 | 2026-11-04 | 泛舟如画秋林 | [下载](https://cn.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg) |
 | 2026-11-03 | 群峰间的宁静 | [下载](https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg) |
 | 2026-11-02 | 写在冰上的未来 | [下载](https://cn.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_UHD.jpg) |
