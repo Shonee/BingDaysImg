@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**向山巅再迈一步** (2026-11-05)
+**穿越毛伊岛的绿色隧道** (2026-11-06)
 
-![向山巅再迈一步](https://cn.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_1920x1080.jpg)
+![穿越毛伊岛的绿色隧道](https://cn.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_1920x1080.jpg)
 
-石墙边的木制翻越梯，黑岩，湖区，英格兰 (© Alex Treadway/Getty Images)
+竹林，皮皮维小径，哈莱亚卡拉国家公园，毛伊岛，夏威夷州，美国 (© MNStudio/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_UHD.jpg)
 
-## 2026-11 月壁纸 (5 张)
+## 2026-11 月壁纸 (6 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-11-06 | 穿越毛伊岛的绿色隧道 | [下载](https://cn.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_UHD.jpg) |
 | 2026-11-05 | 向山巅再迈一步 | [下载](https://cn.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg) |
 | 2026-11-04 | 泛舟如画秋林 | [下载](https://cn.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg) |
 | 2026-11-03 | 群峰间的宁静 | [下载](https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg) |
