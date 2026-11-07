@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**归来的草原巨兽** (2026-11-07)
+**光芒四射的节日** (2026-11-08)
 
-![归来的草原巨兽](https://cn.bing.com/th?id=OHR.DakotaBison_ZH-CN2302503868_1920x1080.jpg)
+![光芒四射的节日](https://cn.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_1920x1080.jpg)
 
-草原上的一头野牛，西奥多·罗斯福国家公园，北达科他州，美国 (© Tandem Stock/Adobe Stock)
+排灯节灯笼，孟买，马哈拉施特拉邦，印度 (© Dinodia Photo/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.DakotaBison_ZH-CN2302503868_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg)
 
-## 2026-11 月壁纸 (7 张)
+## 2026-11 月壁纸 (8 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-11-08 | 光芒四射的节日 | [下载](https://cn.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg) |
 | 2026-11-07 | 归来的草原巨兽 | [下载](https://cn.bing.com/th?id=OHR.DakotaBison_ZH-CN2302503868_UHD.jpg) |
 | 2026-11-06 | 穿越毛伊岛的绿色隧道 | [下载](https://cn.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_UHD.jpg) |
 | 2026-11-05 | 向山巅再迈一步 | [下载](https://cn.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg) |
