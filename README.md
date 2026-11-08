@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**光芒四射的节日** (2026-11-08)
+**艺术与韵律交汇之地** (2026-11-09)
 
-![光芒四射的节日](https://cn.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_1920x1080.jpg)
+![艺术与韵律交汇之地](https://cn.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_1920x1080.jpg)
 
-排灯节灯笼，孟买，马哈拉施特拉邦，印度 (© Dinodia Photo/Getty Images)
+特里亚纳历史街区，塞维利亚，西班牙 (© Andrzej Rostek/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg)
 
-## 2026-11 月壁纸 (8 张)
+## 2026-11 月壁纸 (9 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-11-09 | 艺术与韵律交汇之地 | [下载](https://cn.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg) |
 | 2026-11-08 | 光芒四射的节日 | [下载](https://cn.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg) |
 | 2026-11-07 | 归来的草原巨兽 | [下载](https://cn.bing.com/th?id=OHR.DakotaBison_ZH-CN2302503868_UHD.jpg) |
 | 2026-11-06 | 穿越毛伊岛的绿色隧道 | [下载](https://cn.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_UHD.jpg) |
