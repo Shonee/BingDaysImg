@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**艺术与韵律交汇之地** (2026-11-09)
+**惬意放松，尽享海岛时光** (2026-11-10)
 
-![艺术与韵律交汇之地](https://cn.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_1920x1080.jpg)
+![惬意放松，尽享海岛时光](https://cn.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_1920x1080.jpg)
 
-特里亚纳历史街区，塞维利亚，西班牙 (© Andrzej Rostek/Getty Images)
+玫瑰岛航拍图，巴哈马 (© Abstract Aerial Art/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg)
 
-## 2026-11 月壁纸 (9 张)
+## 2026-11 月壁纸 (10 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-11-10 | 惬意放松，尽享海岛时光 | [下载](https://cn.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg) |
 | 2026-11-09 | 艺术与韵律交汇之地 | [下载](https://cn.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg) |
 | 2026-11-08 | 光芒四射的节日 | [下载](https://cn.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg) |
 | 2026-11-07 | 归来的草原巨兽 | [下载](https://cn.bing.com/th?id=OHR.DakotaBison_ZH-CN2302503868_UHD.jpg) |
