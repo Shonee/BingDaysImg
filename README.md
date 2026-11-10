@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**惬意放松，尽享海岛时光** (2026-11-10)
+**奇妙纷呈的森林** (2026-11-11)
 
-![惬意放松，尽享海岛时光](https://cn.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_1920x1080.jpg)
+![奇妙纷呈的森林](https://cn.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_1920x1080.jpg)
 
-玫瑰岛航拍图，巴哈马 (© Abstract Aerial Art/Getty Images)
+大西洋森林，巴西 (© FG Trade/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_UHD.jpg)
 
-## 2026-11 月壁纸 (10 张)
+## 2026-11 月壁纸 (11 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-11-11 | 奇妙纷呈的森林 | [下载](https://cn.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_UHD.jpg) |
 | 2026-11-10 | 惬意放松，尽享海岛时光 | [下载](https://cn.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg) |
 | 2026-11-09 | 艺术与韵律交汇之地 | [下载](https://cn.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg) |
 | 2026-11-08 | 光芒四射的节日 | [下载](https://cn.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg) |
