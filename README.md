@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**没有建筑师的建筑杰作** (2026-11-12)
+**冰下秘境** (2026-11-13)
 
-![没有建筑师的建筑杰作](https://cn.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_1920x1080.jpg)
+![冰下秘境](https://cn.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_1920x1080.jpg)
 
-北窗，拱门国家公园，莫阿布，犹他州，美国 (© lightphoto/Getty Images)
+亚伯拉罕湖，艾伯塔省，加拿大 (© Guang Cao/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg)
 
-## 2026-11 月壁纸 (12 张)
+## 2026-11 月壁纸 (13 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-11-13 | 冰下秘境 | [下载](https://cn.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg) |
 | 2026-11-12 | 没有建筑师的建筑杰作 | [下载](https://cn.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg) |
 | 2026-11-11 | 奇妙纷呈的森林 | [下载](https://cn.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_UHD.jpg) |
 | 2026-11-10 | 惬意放松，尽享海岛时光 | [下载](https://cn.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg) |
