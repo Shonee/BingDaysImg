@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**冰下秘境** (2026-11-13)
+**唯有向上发展** (2026-11-14)
 
-![冰下秘境](https://cn.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_1920x1080.jpg)
+![唯有向上发展](https://cn.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_1920x1080.jpg)
 
-亚伯拉罕湖，艾伯塔省，加拿大 (© Guang Cao/Getty Images)
+中国香港维多利亚港 (© Juan Romero/Cavan Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_UHD.jpg)
 
-## 2026-11 月壁纸 (13 张)
+## 2026-11 月壁纸 (14 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-11-14 | 唯有向上发展 | [下载](https://cn.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_UHD.jpg) |
 | 2026-11-13 | 冰下秘境 | [下载](https://cn.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg) |
 | 2026-11-12 | 没有建筑师的建筑杰作 | [下载](https://cn.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg) |
 | 2026-11-11 | 奇妙纷呈的森林 | [下载](https://cn.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_UHD.jpg) |
