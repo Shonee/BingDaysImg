@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**历经岁月，屹立不倒** (2026-11-16)
+**走进广阔的大自然** (2026-11-17)
 
-![历经岁月，屹立不倒](https://cn.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_1920x1080.jpg)
+![走进广阔的大自然](https://cn.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_1920x1080.jpg)
 
-美国新墨西哥州吉拉悬崖民居国家纪念地 (© Chiara Salvadori/Getty Images)
+雪松林步道，冰川国家公园，蒙大拿州，美国 (© DBushue Photography/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg)
 
-## 2026-11 月壁纸 (16 张)
+## 2026-11 月壁纸 (17 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-11-17 | 走进广阔的大自然 | [下载](https://cn.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg) |
 | 2026-11-16 | 历经岁月，屹立不倒 | [下载](https://cn.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg) |
 | 2026-11-15 | 霜染枝叶 | [下载](https://cn.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_UHD.jpg) |
 | 2026-11-14 | 唯有向上发展 | [下载](https://cn.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_UHD.jpg) |
