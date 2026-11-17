@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**走进广阔的大自然** (2026-11-17)
+**从黄昏狩猎到黎明** (2026-11-18)
 
-![走进广阔的大自然](https://cn.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_1920x1080.jpg)
+![从黄昏狩猎到黎明](https://cn.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_1920x1080.jpg)
 
-雪松林步道，冰川国家公园，蒙大拿州，美国 (© DBushue Photography/Getty Images)
+一对仓鸮 (© Zahoor Salmi/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_UHD.jpg)
 
-## 2026-11 月壁纸 (17 张)
+## 2026-11 月壁纸 (18 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-11-18 | 从黄昏狩猎到黎明 | [下载](https://cn.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_UHD.jpg) |
 | 2026-11-17 | 走进广阔的大自然 | [下载](https://cn.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg) |
 | 2026-11-16 | 历经岁月，屹立不倒 | [下载](https://cn.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg) |
 | 2026-11-15 | 霜染枝叶 | [下载](https://cn.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_UHD.jpg) |
