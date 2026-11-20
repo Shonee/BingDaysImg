@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**在峡湾中大快朵颐** (2026-11-20)
+**陶瓦屋顶下的梦** (2026-11-21)
 
-![在峡湾中大快朵颐](https://cn.bing.com/th?id=OHR.Megaptera_ZH-CN3361807823_1920x1080.jpg)
+![陶瓦屋顶下的梦](https://cn.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_1920x1080.jpg)
 
-正在潜水的座头鲸，挪威北部特罗姆斯的克瓦尔岛 (© Espen Bergersen/Minden Pictures)
+法国普罗旺斯-阿尔卑斯-蔚蓝海岸大区尼斯 (© Siripong Kaewla-iad/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.Megaptera_ZH-CN3361807823_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_UHD.jpg)
 
-## 2026-11 月壁纸 (20 张)
+## 2026-11 月壁纸 (21 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-11-21 | 陶瓦屋顶下的梦 | [下载](https://cn.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_UHD.jpg) |
 | 2026-11-20 | 在峡湾中大快朵颐 | [下载](https://cn.bing.com/th?id=OHR.Megaptera_ZH-CN3361807823_UHD.jpg) |
 | 2026-11-19 | 思想在此成形 | [下载](https://cn.bing.com/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853_UHD.jpg) |
 | 2026-11-18 | 从黄昏狩猎到黎明 | [下载](https://cn.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_UHD.jpg) |
