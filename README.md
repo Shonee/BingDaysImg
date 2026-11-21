@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**陶瓦屋顶下的梦** (2026-11-21)
+**海浪间的庇护所** (2026-11-22)
 
-![陶瓦屋顶下的梦](https://cn.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_1920x1080.jpg)
+![海浪间的庇护所](https://cn.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_1920x1080.jpg)
 
-法国普罗旺斯-阿尔卑斯-蔚蓝海岸大区尼斯 (© Siripong Kaewla-iad/Getty Images)
+西班牙坎塔布里亚自治区的圣胡斯塔隐修院与小教堂 (© Tramont_ana/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_UHD.jpg)
 
-## 2026-11 月壁纸 (21 张)
+## 2026-11 月壁纸 (22 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-11-22 | 海浪间的庇护所 | [下载](https://cn.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_UHD.jpg) |
 | 2026-11-21 | 陶瓦屋顶下的梦 | [下载](https://cn.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_UHD.jpg) |
 | 2026-11-20 | 在峡湾中大快朵颐 | [下载](https://cn.bing.com/th?id=OHR.Megaptera_ZH-CN3361807823_UHD.jpg) |
 | 2026-11-19 | 思想在此成形 | [下载](https://cn.bing.com/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853_UHD.jpg) |
