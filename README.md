@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**海浪间的庇护所** (2026-11-22)
+**自然中的几何之美** (2026-11-23)
 
-![海浪间的庇护所](https://cn.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_1920x1080.jpg)
+![自然中的几何之美](https://cn.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_1920x1080.jpg)
 
-西班牙坎塔布里亚自治区的圣胡斯塔隐修院与小教堂 (© Tramont_ana/Getty Images)
+蕨类植物的卷曲嫩叶 (© Reza Saputra/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg)
 
-## 2026-11 月壁纸 (22 张)
+## 2026-11 月壁纸 (23 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-11-23 | 自然中的几何之美 | [下载](https://cn.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg) |
 | 2026-11-22 | 海浪间的庇护所 | [下载](https://cn.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_UHD.jpg) |
 | 2026-11-21 | 陶瓦屋顶下的梦 | [下载](https://cn.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_UHD.jpg) |
 | 2026-11-20 | 在峡湾中大快朵颐 | [下载](https://cn.bing.com/th?id=OHR.Megaptera_ZH-CN3361807823_UHD.jpg) |
