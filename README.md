@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**自然中的几何之美** (2026-11-23)
+**秋日的保护色** (2026-11-24)
 
-![自然中的几何之美](https://cn.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_1920x1080.jpg)
+![秋日的保护色](https://cn.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_1920x1080.jpg)
 
-蕨类植物的卷曲嫩叶 (© Reza Saputra/Getty Images)
+红松鼠，凯恩戈姆斯国家公园，苏格兰高地 (© Scotland: The Big Picture/Minden Pictures)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_UHD.jpg)
 
-## 2026-11 月壁纸 (23 张)
+## 2026-11 月壁纸 (24 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-11-24 | 秋日的保护色 | [下载](https://cn.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_UHD.jpg) |
 | 2026-11-23 | 自然中的几何之美 | [下载](https://cn.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg) |
 | 2026-11-22 | 海浪间的庇护所 | [下载](https://cn.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_UHD.jpg) |
 | 2026-11-21 | 陶瓦屋顶下的梦 | [下载](https://cn.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_UHD.jpg) |
