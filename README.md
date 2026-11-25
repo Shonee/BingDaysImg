@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**秋日的保护色** (2026-11-24)
+**美国西南部的一场雪** (2026-11-25)
 
-![秋日的保护色](https://cn.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_1920x1080.jpg)
+![美国西南部的一场雪](https://cn.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_1920x1080.jpg)
 
-红松鼠，凯恩戈姆斯国家公园，苏格兰高地 (© Scotland: The Big Picture/Minden Pictures)
+日落观景点，布莱斯峡谷国家公园，犹他州 (© Colin D. Young/Alamy)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_UHD.jpg)
 
-## 2026-11 月壁纸 (24 张)
+## 2026-11 月壁纸 (25 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-11-25 | 美国西南部的一场雪 | [下载](https://cn.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_UHD.jpg) |
 | 2026-11-24 | 秋日的保护色 | [下载](https://cn.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_UHD.jpg) |
 | 2026-11-23 | 自然中的几何之美 | [下载](https://cn.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg) |
 | 2026-11-22 | 海浪间的庇护所 | [下载](https://cn.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_UHD.jpg) |
