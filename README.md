@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**彩虹落下的地方** (2026-11-26)
+**灰金交织的峡谷** (2026-11-27)
 
-![彩虹落下的地方](https://cn.bing.com/th?id=OHR.RFHilo_ZH-CN5962114314_1920x1080.jpg)
+![灰金交织的峡谷](https://cn.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_1920x1080.jpg)
 
-怀卢库河上的彩虹瀑布，希洛市，夏威夷州，美国 (© Peter Unger/Getty Images)
+夕阳下的孤峰，鲍威尔湖脸峡谷，犹他州，美国 (© Jeff Foott/Minden)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.RFHilo_ZH-CN5962114314_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_UHD.jpg)
 
-## 2026-11 月壁纸 (26 张)
+## 2026-11 月壁纸 (27 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-11-27 | 灰金交织的峡谷 | [下载](https://cn.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_UHD.jpg) |
 | 2026-11-26 | 彩虹落下的地方 | [下载](https://cn.bing.com/th?id=OHR.RFHilo_ZH-CN5962114314_UHD.jpg) |
 | 2026-11-25 | 美国西南部的一场雪 | [下载](https://cn.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_UHD.jpg) |
 | 2026-11-24 | 秋日的保护色 | [下载](https://cn.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_UHD.jpg) |
