@@ -2,18 +2,19 @@
 
 ## 今日壁纸
 
-**灰金交织的峡谷** (2026-11-27)
+**跨越时光的桥梁** (2026-11-28)
 
-![灰金交织的峡谷](https://cn.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_1920x1080.jpg)
+![跨越时光的桥梁](https://cn.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_1920x1080.jpg)
 
-夕阳下的孤峰，鲍威尔湖脸峡谷，犹他州，美国 (© Jeff Foott/Minden)
+捷克布拉格老城区与伏尔塔瓦河 (© Lara_Uhryn/Getty Images)
 
-🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_UHD.jpg)
+🔗 [下载 4K 高清版本](https://cn.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_UHD.jpg)
 
-## 2026-11 月壁纸 (27 张)
+## 2026-11 月壁纸 (28 张)
 
 | 日期 | 标题 | 4K 下载 |
 |------|------|--------|
+| 2026-11-28 | 跨越时光的桥梁 | [下载](https://cn.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_UHD.jpg) |
 | 2026-11-27 | 灰金交织的峡谷 | [下载](https://cn.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_UHD.jpg) |
 | 2026-11-26 | 彩虹落下的地方 | [下载](https://cn.bing.com/th?id=OHR.RFHilo_ZH-CN5962114314_UHD.jpg) |
 | 2026-11-25 | 美国西南部的一场雪 | [下载](https://cn.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_UHD.jpg) |
